@@ -1,0 +1,1127 @@
+﻿// Newline command format: {0000} (newline type)
+// 0d = append
+// 0e = new page
+// anything else is unknown
+
+//<0000> Tenshi
+<0000> Tenshi
+
+//<0001> Kanade
+<0001> Kanade
+
+//<0002> Schoolgirl
+<0002> Schoolgirl
+
+//<0003> ??
+<0003> ??
+
+//<0004> 「何してるの、もうすぐ授業よ？」
+<0004> "What are you doing? Class is starting soon."
+
+//<0005> nothing
+<0005> nothing
+
+//<0006> nothing
+<0006> nothing
+
+//<0007> nothing
+<0007> nothing
+
+//<0008> nothing
+<0008> nothing
+
+//<0009> nothing
+<0009> nothing
+
+//<0010> 出た！　Tenshiだ！
+<0010> She's here! It's Tenshi!
+
+//<0011> nothing
+<0011> nothing
+
+//<0012> nothing
+<0012> nothing
+
+//<0013> nothing
+<0013> nothing
+
+//<0014> nothing
+<0014> nothing
+
+//<0015> nothing
+<0015> nothing
+
+//<0016> Tenshi
+<0016> Tenshi
+
+//<0017> Kanade
+<0017> Kanade
+
+//<0018> Schoolgirl
+<0018> Schoolgirl
+
+//<0019> ??
+<0019> ??
+
+//<0020> 「それよりも、保健室に行くべきね」
+<0020> "More importantly, you should go to the nurse's office."
+
+//<0021> 野田に切り刻まれた、俺の姿を見て言う。
+<0021> She said, referring to my Noda-sliced body.
+
+//<0022> nothing
+<0022> nothing
+
+//<0023> nothing
+<0023> nothing
+
+//<0024> nothing
+<0024> nothing
+
+//<0025> nothing
+<0025> nothing
+
+//<0026> nothing
+<0026> nothing
+
+//<0027> Tenshi
+<0027> Tenshi
+
+//<0028> Kanade
+<0028> Kanade
+
+//<0029> Schoolgirl
+<0029> Schoolgirl
+
+//<0030> ??
+<0030> ??
+
+//<0031> 「行ってね」
+<0031> "Go on."
+
+//<0032> Otonashi
+<0032> Otonashi
+
+//<0033> Punk
+<0033> Punk
+
+//<0034> Substitute
+<0034> Substitute
+
+//<0035> Uncanny Punk
+<0035> Uncanny Punk
+
+//<0036> Lolicon
+<0036> Lolicon
+
+//<0037> メガネ仲間
+<0037> メガネ仲間
+
+//<0038> 暗算日本記録保持者
+<0038> 暗算日本記録保持者
+
+//<0039> Phantom Slasher
+<0039> Phantom Slasher
+
+//<0040> Amnesiac
+<0040> Amnesiac
+
+//<0041> 音速
+<0041> 音速
+
+//<0042> 無限
+<0042> 無限
+
+//<0043> エロ侍
+<0043> エロ侍
+
+//<0044> エロエロ団ナンバー１
+<0044> エロエロ団ナンバー１
+
+//<0045> ただのエロ少年
+<0045> ただのエロ少年
+
+//<0046> ユリブサイク
+<0046> ユリブサイク
+
+//<0047> ドピュッシー
+<0047> ドピュッシー
+
+//<0048> アメリカンエロドッグ
+<0048> アメリカンエロドッグ
+
+//<0049> ゼウス
+<0049> ゼウス
+
+//<0050> 日向markⅡ
+<0050> 日向markⅡ
+
+//<0051> 糞虫
+<0051> 糞虫
+
+//<0052> 量産型日向
+<0052> 量産型日向
+
+//<0053> ??
+<0053> ??
+
+//<0054> 「あ、ああ…」
+<0054> "Uh, yeah"
+
+//<0055> nothing
+<0055> nothing
+
+//<0056> nothing
+<0056> nothing
+
+//<0057> nothing
+<0057> nothing
+
+//<0058> nothing
+<0058> nothing
+
+//<0059> nothing
+<0059> nothing
+
+//<0060> nothing
+<0060> nothing
+
+//<0061> Tenshiが去っていく。
+<0061> Tenshi walked away
+
+//<0062> どうやら、難を逃れられたようだ…。
+<0062> Somehow, it seems I avoided trouble
+
+//<0063> Otonashi
+<0063> Otonashi
+
+//<0064> Punk
+<0064> Punk
+
+//<0065> Substitute
+<0065> Substitute
+
+//<0066> Uncanny Punk
+<0066> Uncanny Punk
+
+//<0067> Lolicon
+<0067> Lolicon
+
+//<0068> メガネ仲間
+<0068> メガネ仲間
+
+//<0069> 暗算日本記録保持者
+<0069> 暗算日本記録保持者
+
+//<0070> Phantom Slasher
+<0070> Phantom Slasher
+
+//<0071> Amnesiac
+<0071> Amnesiac
+
+//<0072> 音速
+<0072> 音速
+
+//<0073> 無限
+<0073> 無限
+
+//<0074> エロ侍
+<0074> エロ侍
+
+//<0075> エロエロ団ナンバー１
+<0075> エロエロ団ナンバー１
+
+//<0076> ただのエロ少年
+<0076> ただのエロ少年
+
+//<0077> ユリブサイク
+<0077> ユリブサイク
+
+//<0078> ドピュッシー
+<0078> ドピュッシー
+
+//<0079> アメリカンエロドッグ
+<0079> アメリカンエロドッグ
+
+//<0080> ゼウス
+<0080> ゼウス
+
+//<0081> 日向markⅡ
+<0081> 日向markⅡ
+
+//<0082> 糞虫
+<0082> 糞虫
+
+//<0083> 量産型日向
+<0083> 量産型日向
+
+//<0084> ??
+<0084> ??
+
+//<0085> 「えっと…、俺、自分のクラスどこか忘れてしまって…」
+<0085> "Um... I've forgotten where my class is..."
+
+//<0086> Otonashi
+<0086> Otonashi
+
+//<0087> Punk
+<0087> Punk
+
+//<0088> Substitute
+<0088> Substitute
+
+//<0089> Uncanny Punk
+<0089> Uncanny Punk
+
+//<0090> Lolicon
+<0090> Lolicon
+
+//<0091> メガネ仲間
+<0091> メガネ仲間
+
+//<0092> 暗算日本記録保持者
+<0092> 暗算日本記録保持者
+
+//<0093> Phantom Slasher
+<0093> Phantom Slasher
+
+//<0094> Amnesiac
+<0094> Amnesiac
+
+//<0095> 音速
+<0095> 音速
+
+//<0096> 無限
+<0096> 無限
+
+//<0097> エロ侍
+<0097> エロ侍
+
+//<0098> エロエロ団ナンバー１
+<0098> エロエロ団ナンバー１
+
+//<0099> ただのエロ少年
+<0099> ただのエロ少年
+
+//<0100> ユリブサイク
+<0100> ユリブサイク
+
+//<0101> ドピュッシー
+<0101> ドピュッシー
+
+//<0102> アメリカンエロドッグ
+<0102> アメリカンエロドッグ
+
+//<0103> ゼウス
+<0103> ゼウス
+
+//<0104> 日向markⅡ
+<0104> 日向markⅡ
+
+//<0105> 糞虫
+<0105> 糞虫
+
+//<0106> 量産型日向
+<0106> 量産型日向
+
+//<0107> ??
+<0107> ??
+
+//<0108> 「いや、でも、俺、クラスとかわからないし…」
+<0108> "But, well, I don't know where my class is..."
+
+//<0109> nothing
+<0109> nothing
+
+//<0110> nothing
+<0110> nothing
+
+//<0111> nothing
+<0111> nothing
+
+//<0112> nothing
+<0112> nothing
+
+//<0113> nothing
+<0113> nothing
+
+//<0114> Tenshi
+<0114> Tenshi
+
+//<0115> Kanade
+<0115> Kanade
+
+//<0116> Schoolgirl
+<0116> Schoolgirl
+
+//<0117> ??
+<0117> ??
+
+//<0118> 「あなたのクラスと席はちゃんとあるわ」
+<0118> "There is a proper class and seat for you."
+
+//<0119> そうか…制服まで用意されてるぐらいなんだからな…。あるよな…。
+<0119> There is? Even a uniform had been prepared, so there must be right?
+
+//<0120> nothing
+<0120> nothing
+
+//<0121> nothing
+<0121> nothing
+
+//<0122> nothing
+<0122> nothing
+
+//<0123> nothing
+<0123> nothing
+
+//<0124> nothing
+<0124> nothing
+
+//<0125> Tenshi
+<0125> Tenshi
+
+//<0126> Kanade
+<0126> Kanade
+
+//<0127> Schoolgirl
+<0127> Schoolgirl
+
+//<0128> ??
+<0128> ??
+
+//<0129> 「連れて行ってあげるわ。行きましょ」
+<0129> "I'll take you there. Let's go"
+
+//<0130> まともに授業受けると、この世界から消えてしまうと言われているが…。
+<0130> I was told that taking class seriously will make you disappear so...
+
+//<0131> 授業を受ける
+<0131> Take the class.
+
+//<0132> 逃げる
+<0132> Dash!
+// Sorry, but I can't resist throwing in an AIR reference here -Taka
+
+//<0133> 戦う
+<0133> Fight.
+
+//<0134> selbtn : 
+<0134> selbtn : 
+
+//<0135> 俺は何も言わず、体を反転させ、全力で走る。
+<0135> Without saying anything I turn around, and run with all my strength.
+
+//<0136> 白
+<0136> 白
+{4060} 0a // 0136
+
+//<0137> nothing
+<0137> nothing
+
+//<0138> nothing
+<0138> nothing
+
+//<0139> nothing
+<0139> nothing
+
+//<0140> nothing
+<0140> nothing
+
+//<0141> nothing
+<0141> nothing
+
+//<0142> Yuri
+<0142> Yuri
+
+//<0143> Schoolgirl
+<0143> Schoolgirl
+
+//<0144> ??
+<0144> ??
+
+//<0145> 「模範通りに校内活動を行わない生徒に対しては、まず口頭注意。逃げれば追ってくるし、先回りして行く手を阻む」
+<0145> When a student goes against school regulation, she'll first give a warning. If you run away she'll follow you and cut off your path.
+//TL Quote from day01
+
+//<0146> そう言われてるだけに、懸命だ。
+<0146> That's what she said; I have to give it my all.
+
+//<0147> 逃げ切れるか！？
+<0147> Can I outrun her?
+
+//<0148> 階段は一気に踊り場まで跳んだ。
+<0148> In one leap, I jump over the stairs down to the landing.
+
+//<0149> さらに階下へと跳ぶ。
+<0149> I continue jumping down stairs till I'm on the ground floor.
+
+//<0150> そのまま廊下を駆け抜け、表に出る。
+<0150> Similarly I run through the hallway, and make it outside.
+
+//<0151> se_chime
+<0151> se_chime
+
+//<0152> と同時にチャイムが鳴る。
+<0152> Just then, the bell rang.
+
+//<0153> Otonashi
+<0153> Otonashi
+
+//<0154> Punk
+<0154> Punk
+
+//<0155> Substitute
+<0155> Substitute
+
+//<0156> Uncanny Punk
+<0156> Uncanny Punk
+
+//<0157> Lolicon
+<0157> Lolicon
+
+//<0158> メガネ仲間
+<0158> メガネ仲間
+
+//<0159> 暗算日本記録保持者
+<0159> 暗算日本記録保持者
+
+//<0160> Phantom Slasher
+<0160> Phantom Slasher
+
+//<0161> Amnesiac
+<0161> Amnesiac
+
+//<0162> 音速
+<0162> 音速
+
+//<0163> 無限
+<0163> 無限
+
+//<0164> エロ侍
+<0164> エロ侍
+
+//<0165> エロエロ団ナンバー１
+<0165> エロエロ団ナンバー１
+
+//<0166> ただのエロ少年
+<0166> ただのエロ少年
+
+//<0167> ユリブサイク
+<0167> ユリブサイク
+
+//<0168> ドピュッシー
+<0168> ドピュッシー
+
+//<0169> アメリカンエロドッグ
+<0169> アメリカンエロドッグ
+
+//<0170> ゼウス
+<0170> ゼウス
+
+//<0171> 日向markⅡ
+<0171> 日向markⅡ
+
+//<0172> 糞虫
+<0172> 糞虫
+
+//<0173> 量産型日向
+<0173> 量産型日向
+
+//<0174> ??
+<0174> ??
+
+//<0175> 「ふぅ…授業が始まったか。逃げ切った…！」
+<0175> "Phew... Class has started. I got away!"
+
+//<0176> nothing
+<0176> nothing
+
+//<0177> nothing
+<0177> nothing
+
+//<0178> nothing
+<0178> nothing
+
+//<0179> nothing
+<0179> nothing
+
+//<0180> nothing
+<0180> nothing
+
+//<0181> Tenshi
+<0181> Tenshi
+
+//<0182> Kanade
+<0182> Kanade
+
+//<0183> Schoolgirl
+<0183> Schoolgirl
+
+//<0184> ??
+<0184> ??
+
+//<0185> 「教室まで案内するわ」
+<0185> "I'll guide you to the classroom"
+
+//<0186> ええー！！　本当に先回りしてるなんて！！　しかもなんて涼しげな顔だ！
+<0186> Eehh!! She realy did cut me off! Even more, she doesn't look tired at all.
+
+//<0187> そこである矛盾に気づいた。
+<0187> Then I noticed the contradiction in this situation.
+
+//<0188> Otonashi
+<0188> Otonashi
+
+//<0189> Punk
+<0189> Punk
+
+//<0190> Substitute
+<0190> Substitute
+
+//<0191> Uncanny Punk
+<0191> Uncanny Punk
+
+//<0192> Lolicon
+<0192> Lolicon
+
+//<0193> メガネ仲間
+<0193> メガネ仲間
+
+//<0194> 暗算日本記録保持者
+<0194> 暗算日本記録保持者
+
+//<0195> Phantom Slasher
+<0195> Phantom Slasher
+
+//<0196> Amnesiac
+<0196> Amnesiac
+
+//<0197> 音速
+<0197> 音速
+
+//<0198> 無限
+<0198> 無限
+
+//<0199> エロ侍
+<0199> エロ侍
+
+//<0200> エロエロ団ナンバー１
+<0200> エロエロ団ナンバー１
+
+//<0201> ただのエロ少年
+<0201> ただのエロ少年
+
+//<0202> ユリブサイク
+<0202> ユリブサイク
+
+//<0203> ドピュッシー
+<0203> ドピュッシー
+
+//<0204> アメリカンエロドッグ
+<0204> アメリカンエロドッグ
+
+//<0205> ゼウス
+<0205> ゼウス
+
+//<0206> 日向markⅡ
+<0206> 日向markⅡ
+
+//<0207> 糞虫
+<0207> 糞虫
+
+//<0208> 量産型日向
+<0208> 量産型日向
+
+//<0209> ??
+<0209> ??
+
+//<0210> 「でも、あんた生徒会長なのに、自らサボってることにならないか？」
+<0210> But, you're the student council president, aren't you skipping class right now too.
+
+//<0211> nothing
+<0211> nothing
+
+//<0212> nothing
+<0212> nothing
+
+//<0213> nothing
+<0213> nothing
+
+//<0214> nothing
+<0214> nothing
+
+//<0215> nothing
+<0215> nothing
+
+//<0216> Tenshi
+<0216> Tenshi
+
+//<0217> Kanade
+<0217> Kanade
+
+//<0218> Schoolgirl
+<0218> Schoolgirl
+
+//<0219> ??
+<0219> ??
+
+//<0220> 「あたしは、授業をさぼる生徒の指導猶予として１０分だけ遅れても許されることになっているの」
+<0220> I am allowed to be 10 minutes late in order to provide guidance for truant students.
+
+//<0221> Otonashi
+<0221> Otonashi
+
+//<0222> Punk
+<0222> Punk
+
+//<0223> Substitute
+<0223> Substitute
+
+//<0224> Uncanny Punk
+<0224> Uncanny Punk
+
+//<0225> Lolicon
+<0225> Lolicon
+
+//<0226> メガネ仲間
+<0226> メガネ仲間
+
+//<0227> 暗算日本記録保持者
+<0227> 暗算日本記録保持者
+
+//<0228> Phantom Slasher
+<0228> Phantom Slasher
+
+//<0229> Amnesiac
+<0229> Amnesiac
+
+//<0230> 音速
+<0230> 音速
+
+//<0231> 無限
+<0231> 無限
+
+//<0232> エロ侍
+<0232> エロ侍
+
+//<0233> エロエロ団ナンバー１
+<0233> エロエロ団ナンバー１
+
+//<0234> ただのエロ少年
+<0234> ただのエロ少年
+
+//<0235> ユリブサイク
+<0235> ユリブサイク
+
+//<0236> ドピュッシー
+<0236> ドピュッシー
+
+//<0237> アメリカンエロドッグ
+<0237> アメリカンエロドッグ
+
+//<0238> ゼウス
+<0238> ゼウス
+
+//<0239> 日向markⅡ
+<0239> 日向markⅡ
+
+//<0240> 糞虫
+<0240> 糞虫
+
+//<0241> 量産型日向
+<0241> 量産型日向
+
+//<0242> ??
+<0242> ??
+
+//<0243> （マジかよ…）
+<0243> (Are you for real?)
+
+//<0244> 今ので逃げ切れないってことは…。
+<0244> I couldn't get away just now so...
+
+//<0245> 諦めて授業を受ける
+<0245> Give up and take the class.
+
+//<0246> さらに逃げる
+<0246> Dash!
+
+//<0247> selbtn : 
+<0247> selbtn : 
+
+//<0248> そうだ。１０分だ！　１０分さえ逃げ切ればいいんだ！
+<0248> That's right, 10 minutes. It's fine as long as I can keep running for 10 minutes.
+
+//<0249> 移動しよう！
+<0249> Dash!
+
+//<0250> 腕時計を見ると、１０分経っていた。
+<0250> I look at my wristwatch, 10 minutes has passed.
+
+//<0251> Otonashi
+<0251> Otonashi
+
+//<0252> Punk
+<0252> Punk
+
+//<0253> Substitute
+<0253> Substitute
+
+//<0254> Uncanny Punk
+<0254> Uncanny Punk
+
+//<0255> Lolicon
+<0255> Lolicon
+
+//<0256> メガネ仲間
+<0256> メガネ仲間
+
+//<0257> 暗算日本記録保持者
+<0257> 暗算日本記録保持者
+
+//<0258> Phantom Slasher
+<0258> Phantom Slasher
+
+//<0259> Amnesiac
+<0259> Amnesiac
+
+//<0260> 音速
+<0260> 音速
+
+//<0261> 無限
+<0261> 無限
+
+//<0262> エロ侍
+<0262> エロ侍
+
+//<0263> エロエロ団ナンバー１
+<0263> エロエロ団ナンバー１
+
+//<0264> ただのエロ少年
+<0264> ただのエロ少年
+
+//<0265> ユリブサイク
+<0265> ユリブサイク
+
+//<0266> ドピュッシー
+<0266> ドピュッシー
+
+//<0267> アメリカンエロドッグ
+<0267> アメリカンエロドッグ
+
+//<0268> ゼウス
+<0268> ゼウス
+
+//<0269> 日向markⅡ
+<0269> 日向markⅡ
+
+//<0270> 糞虫
+<0270> 糞虫
+
+//<0271> 量産型日向
+<0271> 量産型日向
+
+//<0272> ??
+<0272> ??
+
+//<0273> 「よし、逃げ切ったぁーー！！」
+<0273> Yes, I got away!
+
+//<0274> 思わず拳を掲げ、ガッツポーズをしてしまう。
+<0274> Without thinking I strike a victory pose.
+
+//<0275> 戦う。ひとりでも。こちとら初日に実質殺されたんだからな…。
+<0275> I'll fight, even though I'm alone. She did essentially kill me the first day after all.
+
+//<0276> se_handgun_setup
+<0276> se_handgun_setup
+
+//<0277> nothing
+<0277> nothing
+
+//<0278> nothing
+<0278> nothing
+
+//<0279> nothing
+<0279> nothing
+
+//<0280> nothing
+<0280> nothing
+
+//<0281> nothing
+<0281> nothing
+
+//<0282> Yuriから渡された銃を構えて、銃口をTenshiに向ける。
+<0282> I ready the gun I received from Yuri, and point it at Tenshi.
+
+//<0283> nothing
+<0283> nothing
+
+//<0284> nothing
+<0284> nothing
+
+//<0285> nothing
+<0285> nothing
+
+//<0286> nothing
+<0286> nothing
+
+//<0287> nothing
+<0287> nothing
+
+//<0288> けどその姿をすぐに見失う。
+<0288> But, I quickly lose sight of her.
+
+//<0289> nothing
+<0289> nothing
+
+//<0290> nothing
+<0290> nothing
+
+//<0291> nothing
+<0291> nothing
+
+//<0292> nothing
+<0292> nothing
+
+//<0293> nothing
+<0293> nothing
+
+//<0294> se_threaten
+<0294> se_threaten
+
+//<0295> そして気がつけば、刃を喉元に当てられて、そこで止まった。
+<0295> I notice a blade touching my throat.
+
+//<0296> nothing
+<0296> nothing
+
+//<0297> nothing
+<0297> nothing
+
+//<0298> nothing
+<0298> nothing
+
+//<0299> nothing
+<0299> nothing
+
+//<0300> nothing
+<0300> nothing
+
+//<0301> Tenshi
+<0301> Tenshi
+
+//<0302> Kanade
+<0302> Kanade
+
+//<0303> Schoolgirl
+<0303> Schoolgirl
+
+//<0304> ??
+<0304> ??
+
+//<0305> 「授業を受けて」
+<0305> "Take the class."
+
+//<0306> Otonashi
+<0306> Otonashi
+
+//<0307> Punk
+<0307> Punk
+
+//<0308> Substitute
+<0308> Substitute
+
+//<0309> Uncanny Punk
+<0309> Uncanny Punk
+
+//<0310> Lolicon
+<0310> Lolicon
+
+//<0311> メガネ仲間
+<0311> メガネ仲間
+
+//<0312> 暗算日本記録保持者
+<0312> 暗算日本記録保持者
+
+//<0313> Phantom Slasher
+<0313> Phantom Slasher
+
+//<0314> Amnesiac
+<0314> Amnesiac
+
+//<0315> 音速
+<0315> 音速
+
+//<0316> 無限
+<0316> 無限
+
+//<0317> エロ侍
+<0317> エロ侍
+
+//<0318> エロエロ団ナンバー１
+<0318> エロエロ団ナンバー１
+
+//<0319> ただのエロ少年
+<0319> ただのエロ少年
+
+//<0320> ユリブサイク
+<0320> ユリブサイク
+
+//<0321> ドピュッシー
+<0321> ドピュッシー
+
+//<0322> アメリカンエロドッグ
+<0322> アメリカンエロドッグ
+
+//<0323> ゼウス
+<0323> ゼウス
+
+//<0324> 日向markⅡ
+<0324> 日向markⅡ
+
+//<0325> 糞虫
+<0325> 糞虫
+
+//<0326> 量産型日向
+<0326> 量産型日向
+
+//<0327> ??
+<0327> ??
+
+//<0328> 「…わかった…」
+<0328> "..Okay.."
+
+//<0329> 戦闘経験のない俺が勝てるはずなんて無かった…。
+<0329> Without any battle experience I had no chance of winning.
+
+//<0330> 逃げ切れないだろうし、一度授業を受けてみるか…。
+<0330> I can't run away anyway; let's just take class for once.
+
+//<0331> 01_かなで
+<0331> 01_かなで
+
+//<0332> _00
+<0332> _00
+
+//<0333> 逃げ切れないだろうし、一度授業を受けてみるか…。
+<0333> I can't run away anyway; let's just take class for once...
+
+//<0334> 01_かなで
+<0334> 01_かなで
+
+//<0335> _00
+<0335> _00
+
+//<0336> dummy
+<0336> dummy
+
+//<0337> bg_kuro
+<0337> bg_kuro
+
+//<0338> ep03_bg013
+<0338> ep03_bg013
+
+//<0339> m204
+<0339> m204
+
+//<0340> kn0901
+<0340> kn0901
+
+//<0341> kn0901
+<0341> kn0901
+
+//<0342> kn0902_08
+<0342> kn0902_08
+
+//<0343> kn0102_08
+<0343> kn0102_08
+
+//<0344> kn0901_05
+<0344> kn0901_05
+
+//<0345> kn0101_05
+<0345> kn0101_05
+
+//<0346> sys_bk_selline00
+<0346> sys_bk_selline00
+
+//<0347> bg_kuro
+<0347> bg_kuro
+
+//<0348> m114
+<0348> m114
+
+//<0349> ep88_bg002
+<0349> ep88_bg002
+
+//<0350> yr0109
+<0350> yr0109
+
+//<0351> bg_kuro
+<0351> bg_kuro
+
+//<0352> ep88_bg008
+<0352> ep88_bg008
+
+//<0353> ep88_bg007
+<0353> ep88_bg007
+
+//<0354> bg_kuro
+<0354> bg_kuro
+
+//<0355> ep10_bg014
+<0355> ep10_bg014
+
+//<0356> kn0901
+<0356> kn0901
+
+//<0357> kn0901_05
+<0357> kn0901_05
+
+//<0358> sys_bk_selline00
+<0358> sys_bk_selline00
+
+//<0359> bg_kuro
+<0359> bg_kuro
+
+//<0360> ep04_bg021
+<0360> ep04_bg021
+
+//<0361> ep07_bg029
+<0361> ep07_bg029
+
+//<0362> ep10_bg001
+<0362> ep10_bg001
+
+//<0363> bg_kuro
+<0363> bg_kuro
+
+//<0364> ep03_bg018
+<0364> ep03_bg018
+
+//<0365> bg_kuro
+<0365> bg_kuro
+
+//<0366> m114
+<0366> m114
+
+//<0367> kn0101
+<0367> kn0101
+
+//<0368> kn999900l5
+<0368> kn999900l5
+
+//<0369> bs3_kn120100r3
+<0369> bs3_kn120100r3
+
+//<0370> kn1201_05
+<0370> kn1201_05
+
+//<0371> bg_kuro
+<0371> bg_kuro
+
+//<0372> bg_kuro
+<0372> bg_kuro
+

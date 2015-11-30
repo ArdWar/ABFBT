@@ -1,0 +1,6292 @@
+﻿// Newline command format: {0000} (newline type)
+// 0d = append
+// 0e = new page
+// anything else is unknown
+
+//<0000> nothing
+<0000> nothing
+
+//<0001> 
+<0001> 
+
+//<0002> 
+<0002> 
+
+//<0003> nothing
+<0003> nothing
+
+//<0004> 目覚めた。
+<0004> I wake up.
+
+//<0005> そこに広がっているのは満天の星空。
+<0005> A starry sky spread out before me.
+
+//<0006> 夜。
+<0006> It's night.
+
+//<0007> 仰向けになって倒れているようだ。
+<0007> I'm lying on my back.
+
+//<0008> 気絶でもしたのだろうか。
+<0008> Did I faint?
+
+//<0009> ゆっくりと身体を起こし、軽く上半身を動かしてみる。
+<0009> I slowly pick myself up.
+
+//<0010> どこにも痛みはない。
+<0010> It doesn't hurt anywhere.
+
+//<0011> さて…
+<0011> Now then...
+
+//<0012> ここはどこだ？
+<0012> Where am I?
+
+//<0013> なぜ俺はこんなところに倒れていた？
+<0013> Why was I lying in a place like this?
+
+//<0014> nothing
+<0014> nothing
+
+//<0015> 
+<0015> 
+
+//<0016> 
+<0016> 
+
+//<0017> nothing
+<0017> nothing
+
+//<0018> そもそも…
+<0018> More importantly...
+
+//<0019> …俺は誰なんだ？
+<0019> ...Who am I?
+
+//<0020> Yuri
+<0020> Yuri
+
+//<0021> Female Student
+<0021> Female Student
+
+//<0022> ??
+<0022> ??
+
+//<0023> 「ようこそ、『死んでたまるか戦線』へ。唐突だけど、入隊してくれないかしら？」
+<0023> "Welcome, to the 'I-Ain't-Dead-Yet' Battlefront. This might sound sudden, but would you mind joining us?"
+
+//<0024> 声が後ろから聞こえた。
+<0024> I hear a voice from behind me. 
+
+//<0025> nothing
+<0025> nothing
+
+//<0026> 
+<0026> 
+
+//<0027> 
+<0027> 
+
+//<0028> nothing
+<0028> nothing
+
+//<0029> 振りかえると、そこにはライフルを構えているひとりの女生徒の姿があった。
+<0029> I turn around to see a lone female student gripping a rifle.
+
+//<0030> 目はライフルの照準に合わせたままで、こっちは見ていない。
+<0030> She doesn't look at me, and keeps her eyes glued to the scope of her rifle.
+
+//<0031> なんなんだ、この非日常的な光景は…。
+<0031> What is this strange scene...
+
+//<0032> 映画の撮影現場にでも潜りこんだのか？
+<0032> Have I wandered onto the set of a movie?
+
+//<0033> ここに至る記憶もない。
+<0033> I don't remember coming here.
+
+//<0034> 音無
+<0034> Otonashi
+
+//<0035> クソ坊主
+<0035> Punk
+
+//<0036> 代理人
+<0036> Substitute
+
+//<0037> 微妙すぎるイケメン
+<0037> Uncanny Stud
+//"Hunk" seemed too outdated
+
+//<0038> ロリコン
+<0038> Lolicon
+
+//<0039> メガネ仲間
+<0039> Glasses Comrade
+
+//<0040> 暗算日本記録保持者
+<0040> Japanese Mental Mathstermind
+
+//<0041> 通り魔
+<0041> Phantom Slasher
+
+//<0042> 記憶ナシ男
+<0042> Amnesiac
+
+//<0043> 音速
+<0043> Onsoku
+
+//<0044> 無限
+<0044> Mugen
+
+//<0045> エロ侍
+<0045> Ero Samurai
+
+//<0046> エロエロ団ナンバー１
+<0046> Ero Ero Numero Uno
+
+//<0047> ただのエロ少年
+<0047> Just a Pervert
+
+//<0048> ユリブサイク
+<0048> Uglyuri
+
+//<0049> ドピュッシー
+<0049> Depussy
+
+//<0050> アメリカンエロドッグ
+<0050> Horndog
+
+//<0051> ゼウス
+<0051> Zeus
+
+//<0052> 日向markⅡ
+<0052> Hinata Mk.Ⅱ
+
+//<0053> 糞虫
+<0053> Dung Beatle
+
+//<0054> 量産型日向
+<0054> Hinata Clone
+
+//<0055> ??
+<0055> ??
+
+//<0056> （なんだ…何が起きているんだ…）
+<0056> What... What is going on?
+
+//<0057> 寒気を覚える。
+<0057> I feel a chill.
+
+//<0058> Yuri
+<0058> Yuri
+
+//<0059> Female Student
+<0059> Female Student
+
+//<0060> ??
+<0060> ??
+
+//<0061> 「あなたがここに居るってことは死んだのよ」
+<0061> "If you're here, then that means you're dead."
+
+//<0062> そう女生徒は続けた。本当に学生かはわからない。学生服を着ているから、女生徒と見なしただけで、普通の女生徒はライフルを構えたりしないものだ。
+<0062> So said the schoolgirl. Though I'm not sure she's really a student. Students usually wear uniforms, but you wouldn't usually expect a schoolgirl to be wielding a rifle.
+
+//<0063> Otonashi
+<0063> Otonashi
+
+//<0064> Punk
+<0064> Punk
+
+//<0065> Substitute
+<0065> Substitute
+
+//<0066> Uncanny Stud
+<0066> Uncanny Stud
+
+//<0067> Lolicon
+<0067> Lolicon
+
+//<0068> Glasses Comrade
+<0068> Glasses Comrade
+
+//<0069> Japanese Mental Mathstermind
+<0069> Japanese Mental Mathstermind
+
+//<0070> Phantom Slasher
+<0070> Phantom Slasher
+
+//<0071> Amnesiac
+<0071> Amnesiac
+
+//<0072> Onsoku
+<0072> Onsoku
+
+//<0073> Mugen
+<0073> Mugen
+
+//<0074> Ero Samurai
+<0074> Ero Samurai
+
+//<0075> Ero Ero Numero Uno
+<0075> Ero Ero Numero Uno
+
+//<0076> Just a Pervert
+<0076> Just a Pervert
+
+//<0077> Uglyuri
+<0077> Uglyuri
+
+//<0078> Depussy
+<0078> Depussy
+
+//<0079> Horndog
+<0079> Horndog
+
+//<0080> Zeus
+<0080> Zeus
+
+//<0081> Hinata Mk.Ⅱ
+<0081> Hinata Mk.Ⅱ
+
+//<0082> Dung Beatle
+<0082> Dung Beatle
+
+//<0083> Hinata Clone
+<0083> Hinata Clone
+
+//<0084> ??
+<0084> ??
+
+//<0085> 「よくわからないんだけど…」
+<0085> "I don't understand, but..."
+
+//<0086> 率直な感想を述べた。こんな声なのか、俺は。
+<0086> Since when do I voice my thoughts so frankly?
+
+//<0087> Yuri
+<0087> Yuri
+
+//<0088> Female Student
+<0088> Female Student
+
+//<0089> ??
+<0089> ??
+
+//<0090> 「あなたは死んだの。そしてここは死んだ後の世界。何もしなければ、消されるわよ」
+<0090> "You died. This is the world of the afterlife. If you don't do anything, you'll be obliterated."
+
+//<0091> Otonashi
+<0091> Otonashi
+
+//<0092> Punk
+<0092> Punk
+
+//<0093> Substitute
+<0093> Substitute
+
+//<0094> Uncanny Stud
+<0094> Uncanny Stud
+
+//<0095> Lolicon
+<0095> Lolicon
+
+//<0096> Glasses Comrade
+<0096> Glasses Comrade
+
+//<0097> Japanese Mental Mathstermind
+<0097> Japanese Mental Mathstermind
+
+//<0098> Phantom Slasher
+<0098> Phantom Slasher
+
+//<0099> Amnesiac
+<0099> Amnesiac
+
+//<0100> Onsoku
+<0100> Onsoku
+
+//<0101> Mugen
+<0101> Mugen
+
+//<0102> Ero Samurai
+<0102> Ero Samurai
+
+//<0103> Ero Ero Numero Uno
+<0103> Ero Ero Numero Uno
+
+//<0104> Just a Pervert
+<0104> Just a Pervert
+
+//<0105> Uglyuri
+<0105> Uglyuri
+
+//<0106> Depussy
+<0106> Depussy
+
+//<0107> Horndog
+<0107> Horndog
+
+//<0108> Zeus
+<0108> Zeus
+
+//<0109> Hinata Mk.Ⅱ
+<0109> Hinata Mk.Ⅱ
+
+//<0110> Dung Beatle
+<0110> Dung Beatle
+
+//<0111> Hinata Clone
+<0111> Hinata Clone
+
+//<0112> ??
+<0112> ??
+
+//<0113> 「消される？　誰に？」
+<0113> "Obliterated? By whom?"
+
+//<0114> Yuri
+<0114> Yuri
+
+//<0115> Female Student
+<0115> Female Student
+
+//<0116> ??
+<0116> ??
+
+//<0117> 「そりゃあ、神様でしょうね」
+<0117> "By God, I'd imagine."
+
+//<0118> 突拍子もない単語。
+<0118> An astounding statement.
+
+//<0119> Otonashi
+<0119> Otonashi
+
+//<0120> Punk
+<0120> Punk
+
+//<0121> Substitute
+<0121> Substitute
+
+//<0122> Uncanny Stud
+<0122> Uncanny Stud
+
+//<0123> Lolicon
+<0123> Lolicon
+
+//<0124> Glasses Comrade
+<0124> Glasses Comrade
+
+//<0125> Japanese Mental Mathstermind
+<0125> Japanese Mental Mathstermind
+
+//<0126> Phantom Slasher
+<0126> Phantom Slasher
+
+//<0127> Amnesiac
+<0127> Amnesiac
+
+//<0128> Onsoku
+<0128> Onsoku
+
+//<0129> Mugen
+<0129> Mugen
+
+//<0130> Ero Samurai
+<0130> Ero Samurai
+
+//<0131> Ero Ero Numero Uno
+<0131> Ero Ero Numero Uno
+
+//<0132> Just a Pervert
+<0132> Just a Pervert
+
+//<0133> Uglyuri
+<0133> Uglyuri
+
+//<0134> Depussy
+<0134> Depussy
+
+//<0135> Horndog
+<0135> Horndog
+
+//<0136> Zeus
+<0136> Zeus
+
+//<0137> Hinata Mk.Ⅱ
+<0137> Hinata Mk.Ⅱ
+
+//<0138> Dung Beatle
+<0138> Dung BEatle
+
+//<0139> Hinata Clone
+<0139> Hinata Clone
+
+//<0140> ??
+<0140> ??
+
+//<0141> 「神様…」
+<0141> "God..."
+
+//<0142> Otonashi
+<0142> Otonashi
+
+//<0143> Punk
+<0143> Punk
+
+//<0144> Substitute
+<0144> Substitute
+
+//<0145> Uncanny Stud
+<0145> Uncanny Stud
+
+//<0146> Lolicon
+<0146> Lolicon
+
+//<0147> Glasses Comrade
+<0147> Glasses Comrade
+
+//<0148> Japanese Mental Mathstermind
+<0148> Japanese Mental Mathstermind
+
+//<0149> Phantom Slasher
+<0149> Phantom Slasher
+
+//<0150> Amnesiac
+<0150> Amnesiac
+
+//<0151> Onsoku
+<0151> Onsoku
+
+//<0152> Mugen
+<0152> Mugen
+
+//<0153> Ero Samurai
+<0153> Ero Samurai
+
+//<0154> Ero Ero Numero Uno
+<0154> Ero Ero Numero Uno
+
+//<0155> Just a Pervert
+<0155> Just a Pervert
+
+//<0156> Uglyuri
+<0156> Uglyuri
+
+//<0157> Depussy
+<0157> Depussy
+
+//<0158> Horndog
+<0158> Horndog
+
+//<0159> Zeus
+<0159> Zeus
+
+//<0160> Hinata Mk.Ⅱ
+<0160> Hinata Mk.Ⅱ
+
+//<0161> Dung Beatle
+<0161> Dung Beatle
+
+//<0162> Hinata Clone
+<0162> Hinata Clone
+
+//<0163> ??
+<0163> ??
+
+//<0164> 「居るのか？」
+<0164> "He exists?"
+
+//<0165> Yuri
+<0165> Yuri
+
+//<0166> Female Student
+<0166> Female Student
+
+//<0167> ??
+<0167> ??
+
+//<0168> 「こんな世界があるんだもの。居なきゃおかしいわ」
+<0168> "Since this world exists, it would be strange if God didn't exist."
+
+//<0169> Otonashi
+<0169> Otonashi
+
+//<0170> Punk
+<0170> Punk
+
+//<0171> Substitute
+<0171> Substitute
+
+//<0172> Uncanny Stud
+<0172> Uncanny Stud
+
+//<0173> Lolicon
+<0173> Lolicon
+
+//<0174> Glasses Comrade
+<0174> Glasses Comrade
+
+//<0175> Japanese Mental Mathstermind
+<0175> Japanese Mental Mathstermind
+
+//<0176> Phantom Slasher
+<0176> Phantom Slasher
+
+//<0177> Amnesiac
+<0177> Amnesiac
+
+//<0178> Onsoku
+<0178> Onsoku
+
+//<0179> Mugen
+<0179> Mugen
+
+//<0180> Ero Samurai
+<0180> Ero Samurai
+
+//<0181> Ero Ero Numero Uno
+<0181> Ero Ero Numero Uno
+
+//<0182> Just a Pervert
+<0182> Just a Pervert
+
+//<0183> Uglyuri
+<0183> Uglyuri
+
+//<0184> Depussy
+<0184> Depussy
+
+//<0185> Horndog
+<0185> Horndog
+
+//<0186> Zeus
+<0186> Zeus
+
+//<0187> Hinata Mk.Ⅱ
+<0187> Hinata Mk.Ⅱ
+
+//<0188> Dung Beatle
+<0188> Dung Beatle
+
+//<0189> Hinata Clone
+<0189> Hinata Clone
+
+//<0190> ??
+<0190> ??
+
+//<0191> 「こんな世界って…」
+<0191> "This world..."
+
+//<0192> Yuri
+<0192> Yuri
+
+//<0193> Female Student
+<0193> Female Student
+
+//<0194> ??
+<0194> ??
+
+//<0195> 「何度も言わせないでくれる？　ここは死んだ世界なの。あなたは死んだの」
+<0195> "How many times do I have to say it? This is the afterlife. You died."
+
+//<0196> Yuri
+<0196> Yuri
+
+//<0197> Female Student
+<0197> Female Student
+
+//<0198> ??
+<0198> ??
+
+//<0199> 「まあ、いきなり即死とかだったら、死んだ自覚はないでしょうけど」
+<0199> "I guess you wouldn't realize it if you died all of a sudden."
+
+//<0200> Otonashi
+<0200> Otonashi
+
+//<0201> Punk
+<0201> Punk
+
+//<0202> Substitute
+<0202> Substitute
+
+//<0203> Uncanny Stud
+<0203> Uncanny Stud
+
+//<0204> Lolicon
+<0204> Lolicon
+
+//<0205> Glasses Comrade
+<0205> Glasses Comrade
+
+//<0206> Japanese Mental Mathstermind
+<0206> Japanese Mental Mathstermind
+
+//<0207> Phantom Slasher
+<0207> Phantom Slasher
+
+//<0208> Amnesiac
+<0208> Amnesiac
+
+//<0209> Onsoku
+<0209> Onsoku
+
+//<0210> Mugen
+<0210> Mugen
+
+//<0211> Ero Samurai
+<0211> Ero Samurai
+
+//<0212> Ero Ero Numero Uno
+<0212> Ero Ero Numero Uno
+
+//<0213> Just a Pervert
+<0213> Just a Pervert
+
+//<0214> Uglyuri
+<0214> Uglyuri
+
+//<0215> Depussy
+<0215> Depussy
+
+//<0216> Horndog
+<0216> Horndog
+
+//<0217> Zeus
+<0217> Zeus
+
+//<0218> Hinata Mk.Ⅱ
+<0218> Hinata Mk.Ⅱ
+
+//<0219> Dung Beatle
+<0219> Dung Beatle
+
+//<0220> Hinata Clone
+<0220> Hinata Clone
+
+//<0221> ??
+<0221> ??
+
+//<0222> 「覚えてないんだ…」
+<0222> "I don't remember..."
+
+//<0223> Yuri
+<0223> Yuri
+
+//<0224> Female Student
+<0224> Female Student
+
+//<0225> ??
+<0225> ??
+
+//<0226> 「じゃあ、即死だったのかもね。じき記憶は戻るわ。そういう世界なの」
+<0226> "Well, you were probably killed suddenly. You'll get your memories back soon enough. That's how this world works."
+
+//<0227> Otonashi
+<0227> Otonashi
+
+//<0228> Punk
+<0228> Punk
+
+//<0229> Substitute
+<0229> Substitute
+
+//<0230> Uncanny Stud
+<0230> Uncanny Stud
+
+//<0231> Lolicon
+<0231> Lolicon
+
+//<0232> Glasses Comrade
+<0232> Glasses Comrade
+
+//<0233> Japanese Mental Mathstermind
+<0233> Japanese Mental Mathstermind
+
+//<0234> Phantom Slasher
+<0234> Phantom Slasher
+
+//<0235> Amnesiac
+<0235> Amnesiac
+
+//<0236> Onsoku
+<0236> Onsiku
+
+//<0237> Mugen
+<0237> Mugen
+
+//<0238> Ero Samurai
+<0238> Ero Samurai
+
+//<0239> Ero Ero Numero Uno
+<0239> Ero Ero Numero Uno
+
+//<0240> Just a Pervert
+<0240> Just a Pervert
+
+//<0241> Uglyuri
+<0241> Uglyuri
+
+//<0242> Depussy
+<0242> Depussy
+
+//<0243> Horndog
+<0243> Horndog
+
+//<0244> Zeus
+<0244> Zues
+
+//<0245> Hinata Mk.Ⅱ
+<0245> Hinata Mk.Ⅱ
+
+//<0246> Dung Beatle
+<0246> Dung Beatle
+
+//<0247> Hinata Clone
+<0247> Hinata Clone
+
+//<0248> ??
+<0248> ??
+
+//<0249> 「本当に…死後の世界なのか…？」
+<0249> "Is this really...the afterlife...?"
+
+//<0250> Yuri
+<0250> Yuri
+
+//<0251> Female Student
+<0251> Female Student
+
+//<0252> ??
+<0252> ??
+
+//<0253> 「はぁー…記憶がないパターンは厄介ねぇ…」
+<0253> "Haa... The amnesiacs are always a pain."
+
+//<0254> 辟易されてるが…
+<0254> I'm a bit confused, but I...
+
+//<0255> 信じる
+<0255> Believe her
+
+//<0256> 疑う
+<0256> Doubt her
+
+//<0257> selbtn : 
+<0257> selbtn : 
+
+//<0258> Otonashi
+<0258> Otonashi
+
+//<0259> Punk
+<0259> Punk
+
+//<0260> Substitute
+<0260> Substitute
+
+//<0261> Uncanny Stud
+<0261> Uncanny Stud
+
+//<0262> Lolicon
+<0262> Lolicon
+
+//<0263> Glasses Comrade
+<0263> Glasses Comrade
+
+//<0264> Japanese Mental Mathstermind
+<0264> Japanese Mental Mathstermind
+
+//<0265> Phantom Slasher
+<0265> Phantom Slasher
+
+//<0266> Amnesiac
+<0266> Amnesiac
+
+//<0267> Onsoku
+<0267> Onsoku
+
+//<0268> Mugen
+<0268> Mugen
+
+//<0269> Ero Samurai
+<0269> Ero Samurai
+
+//<0270> Ero Ero Numero Uno
+<0270> Ero Ero Numero Uno
+
+//<0271> Just a Pervert
+<0271> Just a Pervert
+
+//<0272> Uglyuri
+<0272> Uglyuri
+
+//<0273> Depussy
+<0273> Depussy
+
+//<0274> Horndog
+<0274> Horndog
+
+//<0275> Zeus
+<0275> Zues
+
+//<0276> Hinata Mk.Ⅱ
+<0276> Hinata Mk.Ⅱ
+
+//<0277> Dung Beatle
+<0277> Dung Beatle
+
+//<0278> Hinata Clone
+<0278> Hinata Clone
+
+//<0279> ??
+<0279> ??
+
+//<0280> 「信じるよ…」
+<0280> "I believe you..."
+
+//<0281> Yuri
+<0281> Yuri
+
+//<0282> Female Student
+<0282> Female Student
+
+//<0283> ??
+<0283> ??
+
+//<0284> 「あら、記憶がないにしては、聞き分けいいのね。一発ぐらい致命傷を与えてみようかと思ってたところなのだけど」
+<0284> "Oh, even without your memory, you get it. And here I was thinking of giving you a fatal wound."
+
+//<0285> Otonashi
+<0285> Otonashi
+
+//<0286> Punk
+<0286> Punk
+
+//<0287> Substitute
+<0287> Substitute
+
+//<0288> Uncanny Stud
+<0288> Uncanny Stud
+
+//<0289> Lolicon
+<0289> Lolicon
+
+//<0290> Glasses Comrade
+<0290> Glasses Comrade
+
+//<0291> Japanese Mental Mathstermind
+<0291> Japanese Mental Mathstermind
+
+//<0292> Phantom Slasher
+<0292> Phantom Slasher
+
+//<0293> Amnesiac
+<0293> Amnesiac
+
+//<0294> Onsoku
+<0294> Onsoku
+
+//<0295> Mugen
+<0295> Mugen
+
+//<0296> Ero Samurai
+<0296> Ero Samurai
+
+//<0297> Ero Ero Numero Uno
+<0297> Ero Ero Numero Uno
+
+//<0298> Just a Pervert
+<0298> Just a Pervert
+
+//<0299> Uglyuri
+<0299> Uglyuri
+
+//<0300> Depussy
+<0300> Depussy
+
+//<0301> Horndog
+<0301> Horndog
+
+//<0302> Zeus
+<0302> Zeus
+
+//<0303> Hinata Mk.Ⅱ
+<0303> Hinata Mk.Ⅱ
+
+//<0304> Dung Beatle
+<0304> Dung Beatle
+
+//<0305> Hinata Clone
+<0305> Hinata Clone
+
+//<0306> ??
+<0306> ??
+
+//<0307> 「すると…どうなるんだ？」
+<0307> "If you did...what would happen?"
+
+//<0308> Yuri
+<0308> Yuri
+
+//<0309> Female Student
+<0309> Female Student
+
+//<0310> ??
+<0310> ??
+
+//<0311> 「時間が経てば治るのよ。ようは死なないの。死後の世界に居ることを実感するにはもってこいの方法なの」
+<0311> "It'd heal with time. In other words, you won't die. It's great once you actually experience the afterlife."
+
+//<0312> Otonashi
+<0312> Otonashi
+
+//<0313> Punk
+<0313> Punk
+
+//<0314> Substitute
+<0314> Substitute
+
+//<0315> Uncanny Stud
+<0315> Uncanny Stud
+
+//<0316> Lolicon
+<0316> Lolicon
+
+//<0317> Glasses Comrade
+<0317> Glasses Comrade
+
+//<0318> Japanese Mental Mathstermind
+<0318> Japanese Mental Mathstermind
+
+//<0319> Phantom Slasher
+<0319> Phantom Slasher
+
+//<0320> Amnesiac
+<0320> Amnesiac
+
+//<0321> Onsoku
+<0321> Onsoku
+
+//<0322> Mugen
+<0322> Mugen
+
+//<0323> Ero Samurai
+<0323> Ero Samurai
+
+//<0324> Ero Ero Numero Uno
+<0324> Ero Ero Numero Uno
+
+//<0325> Just a Pervert
+<0325> Just a Pervert
+
+//<0326> Uglyuri
+<0326> Uglyuri
+
+//<0327> Depussy
+<0327> Depussy
+
+//<0328> Horndog
+<0328> Horndog
+
+//<0329> Zeus
+<0329> Zeus
+
+//<0330> Hinata Mk.Ⅱ
+<0330> Hinata Mk.Ⅱ
+
+//<0331> Dung Beatle
+<0331> Dung Beatle
+
+//<0332> Hinata Clone
+<0332> Hinata Clone
+
+//<0333> ??
+<0333> ??
+
+//<0334> 「でも、痛みは？」
+<0334> "But doesn't it hurt?"
+
+//<0335> Yuri
+<0335> Yuri
+
+//<0336> Female Student
+<0336> Female Student
+
+//<0337> ??
+<0337> ??
+
+//<0338> 「もちろん死ぬほどの痛みを味わうわ」
+<0338> "Of course it'll hurt as much as dying."
+
+//<0339> Otonashi
+<0339> Otonashi
+
+//<0340> Punk
+<0340> Punk
+
+//<0341> Substitute
+<0341> Substitute
+
+//<0342> Uncanny Stud
+<0342> Uncanny Stud
+
+//<0343> Lolicon
+<0343> Lolicon
+
+//<0344> Glasses Comrade
+<0344> Glasses Comrade
+
+//<0345> Japanese Mental Mathstermind
+<0345> Japanese Mental Mathstermind
+
+//<0346> Phantom Slasher
+<0346> Phantom Slasher
+
+//<0347> Amnesiac
+<0347> Amnesiac
+
+//<0348> Onsoku
+<0348> Onsoku
+
+//<0349> Mugen
+<0349> Mugen
+
+//<0350> Ero Samurai
+<0350> Ero Samurai
+
+//<0351> Ero Ero Numero Uno
+<0351> Ero Ero Numero Uno
+
+//<0352> Just a Pervert
+<0352> Just a Pervert
+
+//<0353> Uglyuri
+<0353> Uglyuri
+
+//<0354> Depussy
+<0354> Depussy
+
+//<0355> Horndog
+<0355> Horndog
+
+//<0356> Zeus
+<0356> Zeus
+
+//<0357> Hinata Mk.Ⅱ
+<0357> Hinata Mk.Ⅱ
+
+//<0358> Dung Beatle
+<0358> Dung Beatle
+
+//<0359> Hinata Clone
+<0359> Hinata Clone
+
+//<0360> ??
+<0360> ??
+
+//<0361> 「勘弁してくれ…」
+<0361> "Are you for real...?"
+
+//<0362> Yuri
+<0362> Yuri
+
+//<0363> Female Student
+<0363> Female Student
+
+//<0364> ??
+<0364> ??
+
+//<0365> 「まあ、信じてくれるのなら、安心して。危害は加えないわ」
+<0365> "Well, since you believe me, don't worry. I won't hurt you."
+
+//<0366> Otonashi
+<0366> Otonashi
+
+//<0367> Punk
+<0367> Punk
+
+//<0368> Substitute
+<0368> Substitute
+
+//<0369> Uncanny Stud
+<0369> Uncanny Stud
+
+//<0370> Lolicon
+<0370> Lolicon
+
+//<0371> Glasses Comrade
+<0371> Glasses Comrade
+
+//<0372> Japanese Mental Mathstermind
+<0372> Japanese Mental Mathstermind
+
+//<0373> Phantom Slasher
+<0373> Phantom Slasher
+
+//<0374> Amnesiac
+<0374> Amnesiac
+
+//<0375> Onsoku
+<0375> Onsoku
+
+//<0376> Mugen
+<0376> Mugen
+
+//<0377> Ero Samurai
+<0377> Ero Samurai
+
+//<0378> Ero Ero Numero Uno
+<0378> Ero Ero Numero Uno
+
+//<0379> Just a Pervert
+<0379> Just a Pervert
+
+//<0380> Uglyuri
+<0380> Uglyuri
+
+//<0381> Depussy
+<0381> Depussy
+
+//<0382> Horndog
+<0382> Horndog
+
+//<0383> Zeus
+<0383> Zeus
+
+//<0384> Hinata Mk.Ⅱ
+<0384> Hinata Mk.Ⅱ
+
+//<0385> Dung Beatle
+<0385> Dung beatle
+
+//<0386> Hinata Clone
+<0386> Hinata Clone
+
+//<0387> ??
+<0387> ??
+
+//<0388> 「ああ、信じるから…」
+<0388> "Ahh, I believe you..."
+
+//<0389> Otonashi
+<0389> Otonashi
+
+//<0390> Punk
+<0390> Punk
+
+//<0391> Substitute
+<0391> Substitute
+
+//<0392> Uncanny Stud
+<0392> Uncanny Stud
+
+//<0393> Lolicon
+<0393> Lolicon
+
+//<0394> Glasses Comrade
+<0394> Glasses Comrade
+
+//<0395> Japanese Mental Mathstermind
+<0395> Japanese Mental Mathstermind
+
+//<0396> Phantom Slasher
+<0396> Phantom Slasher
+
+//<0397> Amnesiac
+<0397> Amnesiac
+
+//<0398> Onsoku
+<0398> Onsoku
+
+//<0399> Mugen
+<0399> Mugen
+
+//<0400> Ero Samurai
+<0400> Ero Samurai
+
+//<0401> Ero Ero Numero Uno
+<0401> Ero Ero Numero Uno
+
+//<0402> Just a Pervert
+<0402> Just a Pervert
+
+//<0403> Uglyuri
+<0403> Uglyuri
+
+//<0404> Depussy
+<0404> Depussy
+
+//<0405> Horndog
+<0405> Horndog
+
+//<0406> Zeus
+<0406> Zeus
+
+//<0407> Hinata Mk.Ⅱ
+<0407> Hinata Mk.Ⅱ
+
+//<0408> Dung Beatle
+<0408> Dung Beatle
+
+//<0409> Hinata Clone
+<0409> Hinata Clone
+
+//<0410> ??
+<0410> ??
+
+//<0411> 「…で、俺にどうしろと？」
+<0411> "...so, what will you do with me?"
+
+//<0412> Yuri
+<0412> Yuri
+
+//<0413> Female Student
+<0413> Female Student
+
+//<0414> ??
+<0414> ??
+
+//<0415> 「入隊するのよ」
+<0415> "Enlist you."
+
+//<0416> Otonashi
+<0416> Otonashi
+
+//<0417> Punk
+<0417> Punk
+
+//<0418> Substitute
+<0418> Substitute
+
+//<0419> Uncanny Stud
+<0419> Uncanny Stud
+
+//<0420> Lolicon
+<0420> Lolicon
+
+//<0421> Glasses Comrade
+<0421> Glasses Comrade
+
+//<0422> Japanese Mental Mathstermind
+<0422> Japanese Mental Mathstermind
+
+//<0423> Phantom Slasher
+<0423> Phantom Slasher
+
+//<0424> Amnesiac
+<0424> Amnesiac
+
+//<0425> Onsoku
+<0425> Onsoku
+
+//<0426> Mugen
+<0426> Mugen
+
+//<0427> Ero Samurai
+<0427> Ero Samurai
+
+//<0428> Ero Ero Numero Uno
+<0428> Ero Ero Numero Uno
+
+//<0429> Just a Pervert
+<0429> Just a Pervert
+
+//<0430> Uglyuri
+<0430> Uglyuri
+
+//<0431> Depussy
+<0431> Depussy
+
+//<0432> Horndog
+<0432> Horndog
+
+//<0433> Zeus
+<0433> Zeus
+
+//<0434> Hinata Mk.Ⅱ
+<0434> Hinata Mk.Ⅱ
+
+//<0435> Dung Beatle
+<0435> Dung Beatle
+
+//<0436> Hinata Clone
+<0436> Hinata Clone
+
+//<0437> ??
+<0437> ??
+
+//<0438> 「その…入隊ってのはなに」
+<0438> "Umm... What's this enlistment?"
+
+//<0439> Otonashi
+<0439> Otonashi
+
+//<0440> Punk
+<0440> Punk
+
+//<0441> Substitute
+<0441> Substitute
+
+//<0442> Uncanny Stud
+<0442> Uncanny Stud
+
+//<0443> Lolicon
+<0443> Lolicon
+
+//<0444> Glasses Comrade
+<0444> Glasses Comrade
+
+//<0445> Japanese Mental Mathstermind
+<0445> Japanese Mental Mathstermind
+
+//<0446> Phantom Slasher
+<0446> Phantom Slasher
+
+//<0447> Amnesiac
+<0447> Amnesiac
+
+//<0448> Onsoku
+<0448> Onsoku
+
+//<0449> Mugen
+<0449> Mugen
+
+//<0450> Ero Samurai
+<0450> Ero Samurai
+
+//<0451> Ero Ero Numero Uno
+<0451> Ero Ero Numero Uno
+
+//<0452> Just a Pervert
+<0452> Just a Pervert
+
+//<0453> Uglyuri
+<0453> Uglyuri
+
+//<0454> Depussy
+<0454> Depussy
+
+//<0455> Horndog
+<0455> Horndog
+
+//<0456> Zeus
+<0456> Zeus
+
+//<0457> Hinata Mk.Ⅱ
+<0457> Hinata Mk.Ⅱ
+
+//<0458> Dung Beatle
+<0458> Dung Beatle
+
+//<0459> Hinata Clone
+<0459> Hinata Clone
+
+//<0460> ??
+<0460> ??
+
+//<0461> 「これはドラマか映画の撮影じゃないのか？」
+<0461> "This is like a filming of some drama, isn't it?"
+
+//<0462> Yuri
+<0462> Yuri
+
+//<0463> Female Student
+<0463> Female Student
+
+//<0464> ??
+<0464> ??
+
+//<0465> 「どーして？」
+<0465> "Why?"
+
+//<0466> Otonashi
+<0466> Otonashi
+
+//<0467> Punk
+<0467> Punk
+
+//<0468> Substitute
+<0468> Substitute
+
+//<0469> Uncanny Stud
+<0469> Uncanny Stud
+
+//<0470> Lolicon
+<0470> Lolicon
+
+//<0471> Glasses Comrade
+<0471> Glasses Comrade
+
+//<0472> Japanese Mental Mathstermind
+<0472> Japanese Mental Mathstermind
+
+//<0473> Phantom Slasher
+<0473> Phantom Slasher
+
+//<0474> Amnesiac
+<0474> Amnesiac
+
+//<0475> Onsoku
+<0475> Onsoku
+
+//<0476> Mugen
+<0476> Mugen
+
+//<0477> Ero Samurai
+<0477> Ero Samurai
+
+//<0478> Ero Ero Numero Uno
+<0478> Ero Ero Numero Uno
+
+//<0479> Just a Pervert
+<0479> Just a Pervert
+
+//<0480> Uglyuri
+<0480> Uglyuri
+
+//<0481> Depussy
+<0481> Depussy
+
+//<0482> Horndog
+<0482> Horndog
+
+//<0483> Zeus
+<0483> Zeus
+
+//<0484> Hinata Mk.Ⅱ
+<0484> Hinata Mk.Ⅱ
+
+//<0485> Dung Beatle
+<0485> Dung Beatle
+
+//<0486> Hinata Clone
+<0486> Hinata Clone
+
+//<0487> ??
+<0487> ??
+
+//<0488> 「だって、あんたみたいな女生徒がライフルを持ってるなんて現実的にありえない」
+<0488> "Because, look, a schoolgirl holding a rifle just isn't realistic."
+
+//<0489> Otonashi
+<0489> Otonashi
+
+//<0490> Punk
+<0490> Punk
+
+//<0491> Substitute
+<0491> Substitute
+
+//<0492> Uncanny Stud
+<0492> Uncanny Stud
+
+//<0493> Lolicon
+<0493> Lolicon
+
+//<0494> Glasses Comrade
+<0494> Glasses Comrade
+
+//<0495> Japanese Mental Mathstermind
+<0495> Japanese Mental Mathstermind
+
+//<0496> Phantom Slasher
+<0496> Phantom Slasher
+
+//<0497> Amnesiac
+<0497> Amnesiac
+
+//<0498> Onsoku
+<0498> Onsoku
+
+//<0499> Mugen
+<0499> Mugen
+
+//<0500> Ero Samurai
+<0500> Ero Samurai
+
+//<0501> Ero Ero Numero Uno
+<0501> Ero Ero Numero Uno
+
+//<0502> Just a Pervert
+<0502> Just a Pervert
+
+//<0503> Uglyuri
+<0503> Uglyuri
+
+//<0504> Depussy
+<0504> Depussy
+
+//<0505> Horndog
+<0505> Horndog
+
+//<0506> Zeus
+<0506> Zeus
+
+//<0507> Hinata Mk.Ⅱ
+<0507> Hinata Mk.Ⅱ
+
+//<0508> Dung Beatle
+<0508> Dung Beatle
+
+//<0509> Hinata Clone
+<0509> Hinata Clone
+
+//<0510> ??
+<0510> ??
+
+//<0511> 「あるいは、それは偽物で演劇か何かかも」
+<0511> "Or maybe that's something like a theater prop."
+
+//<0512> Yuri
+<0512> Yuri
+
+//<0513> Female Student
+<0513> Female Student
+
+//<0514> ??
+<0514> ??
+
+//<0515> 「はあ、そうですか」
+<0515> "Haa, really."
+
+//<0516> Otonashi
+<0516> Otonashi
+
+//<0517> Punk
+<0517> Punk
+
+//<0518> Substitute
+<0518> Substitute
+
+//<0519> Uncanny Stud
+<0519> Uncanny Stud
+
+//<0520> Lolicon
+<0520> Lolicon
+
+//<0521> Glasses Comrade
+<0521> Glasses Comrade
+
+//<0522> Japanese Mental Mathstermind
+<0522> Japanese Mental Mathstermind
+
+//<0523> Phantom Slasher
+<0523> Phantom Slasher
+
+//<0524> Amnesiac
+<0524> Amnesiac
+
+//<0525> Onsoku
+<0525> Onsoku
+
+//<0526> Mugen
+<0526> Mugen
+
+//<0527> Ero Samurai
+<0527> Ero Samurai
+
+//<0528> Ero Ero Numero Uno
+<0528> Ero Ero Numero Uno
+
+//<0529> Just a Pervert
+<0529> Just a Pervert
+
+//<0530> Uglyuri
+<0530> Uglyuri
+
+//<0531> Depussy
+<0531> Depussy
+
+//<0532> Horndog
+<0532> Horndog
+
+//<0533> Zeus
+<0533> Zeus
+
+//<0534> Hinata Mk.Ⅱ
+<0534> Hinata Mk.Ⅱ
+
+//<0535> Dung Beatle
+<0535> Dung Beatle
+
+//<0536> Hinata Clone
+<0536> Hinata Clone
+
+//<0537> ??
+<0537> ??
+
+//<0538> 「夢ではなさそうだけどな」
+<0538> "It does seem like a dream though."
+
+//<0539> 頬をつねるとちゃんと痛い。
+<0539> I pinch my cheek and feel pain.
+
+//<0540> Otonashi
+<0540> Otonashi
+
+//<0541> Punk
+<0541> Punk
+
+//<0542> Substitute
+<0542> Substitute
+
+//<0543> Uncanny Stud
+<0543> Uncanny Stud
+
+//<0544> Lolicon
+<0544> Lolicon
+
+//<0545> Glasses Comrade
+<0545> Glasses Comrade
+
+//<0546> Japanese Mental Mathstermind
+<0546> Japanese Mental Mathstermind
+
+//<0547> Phantom Slasher
+<0547> Phantom Slasher
+
+//<0548> Amnesiac
+<0548> Amnesiac
+
+//<0549> Onsoku
+<0549> Onsoku
+
+//<0550> Mugen
+<0550> Mugen
+
+//<0551> Ero Samurai
+<0551> Ero Samurai
+
+//<0552> Ero Ero Numero Uno
+<0552> Ero Ero Numero Uno
+
+//<0553> Just a Pervert
+<0553> Just a Pervert
+
+//<0554> Uglyuri
+<0554> Uglyuri
+
+//<0555> Depussy
+<0555> Depussy
+
+//<0556> Horndog
+<0556> Horndog
+
+//<0557> Zeus
+<0557> Zeus
+
+//<0558> Hinata Mk.Ⅱ
+<0558> Hinata Mk.Ⅱ
+
+//<0559> Dung Beatle
+<0559> Dung Beatle
+
+//<0560> Hinata Clone
+<0560> Hinata Clone
+
+//<0561> ??
+<0561> ??
+
+//<0562> 「一時的な記憶喪失だろ」
+<0562> "Just a temporary memory loss, I guess."
+
+//<0563> Yuri
+<0563> Yuri
+
+//<0564> Female Student
+<0564> Female Student
+
+//<0565> ??
+<0565> ??
+
+//<0566> 「じゃ、あなたはどうしてここに居るの？」
+<0566> "In that case, why are you here?"
+
+//<0567> Yuri
+<0567> Yuri
+
+//<0568> Female Student
+<0568> Female Student
+
+//<0569> ??
+<0569> ??
+
+//<0570> 「記憶を失うほどの事故に遭ったり、病気だったら、あなたは病院に居て、周りには家族が居るんじゃなくて？」
+<0570> "If you had amnesia or were sick, wouldn't you be in the hospital or have family with you?"
+
+//<0571> 俺は後ろの建物を見上げる。
+<0571> I look up at the building behind her.
+
+//<0572> 病院には見えない…。学校の校舎のような印象を受ける。
+<0572> It doesn't look like a hospital... It seems more like a school building.
+
+//<0573> Otonashi
+<0573> Otonashi
+
+//<0574> Punk
+<0574> Punk
+
+//<0575> Substitute
+<0575> Substitute
+
+//<0576> Uncanny Stud
+<0576> Uncanny Stud
+
+//<0577> Lolicon
+<0577> Lolicon
+
+//<0578> Glasses Comrade
+<0578> Glasses Comrade
+
+//<0579> Japanese Mental Mathstermind
+<0579> Japanese Mental Mathstermind
+
+//<0580> Phantom Slasher
+<0580> Phantom Slasher
+
+//<0581> Amnesiac
+<0581> Amnesiac
+
+//<0582> Onsoku
+<0582> Onsoku
+
+//<0583> Mugen
+<0583> Mugen
+
+//<0584> Ero Samurai
+<0584> Ero Samurai
+
+//<0585> Ero Ero Numero Uno
+<0585> Ero Ero Numero Uno
+
+//<0586> Just a Pervert
+<0586> Just a Pervert
+
+//<0587> Uglyuri
+<0587> Uglyuri
+
+//<0588> Depussy
+<0588> Depussy
+
+//<0589> Horndog
+<0589> Horndog
+
+//<0590> Zeus
+<0590> Zeus
+
+//<0591> Hinata Mk.Ⅱ
+<0591> Hinata Mk.Ⅱ
+
+//<0592> Dung Beatle
+<0592> Dung Beatle
+
+//<0593> Hinata Clone
+<0593> Hinata Clone
+
+//<0594> ??
+<0594> ??
+
+//<0595> （確かにあんなところから落ちて、記憶喪失になっているのなら、病院のベッドの上だよな…）
+<0595> (Surely if I had amnesia due to falling from a place like that, I'd be in a hospital bed...)
+
+//<0596> Yuri
+<0596> Yuri
+
+//<0597> Female Student
+<0597> Female Student
+
+//<0598> ??
+<0598> ??
+
+//<0599> 「入隊しなさい」
+<0599> 「Join us.」
+
+//<0600> Otonashi
+<0600> Otonashi
+
+//<0601> Punk
+<0601> Punk
+
+//<0602> Substitute
+<0602> Substitute
+
+//<0603> Uncanny Stud
+<0603> Uncanny Stud
+
+//<0604> Lolicon
+<0604> Lolicon
+
+//<0605> Glasses Comrade
+<0605> Glasses Comrade
+
+//<0606> Japanese Mental Mathstermind
+<0606> Japanese Mental Mathstermind
+
+//<0607> Phantom Slasher
+<0607> Phantom Slasher
+
+//<0608> Amnesiac
+<0608> Amnesiac
+
+//<0609> Onsoku
+<0609> Onsoku
+
+//<0610> Mugen
+<0610> Mugen
+
+//<0611> Ero Samurai
+<0611> Ero Samurai
+
+//<0612> Ero Ero Numero Uno
+<0612> Ero Ero Numero Uno
+
+//<0613> Just a Pervert
+<0613> Just a Pervert
+
+//<0614> Uglyuri
+<0614> Uglyuri
+
+//<0615> Depussy
+<0615> Depussy
+
+//<0616> Horndog
+<0616> Horndog
+
+//<0617> Zeus
+<0617> Zeus
+
+//<0618> Hinata Mk.Ⅱ
+<0618> Hinata Mk.Ⅱ
+
+//<0619> Dung Beatle
+<0619> Dung Beatle
+
+//<0620> Hinata Clone
+<0620> Hinata Clone
+
+//<0621> ??
+<0621> ??
+
+//<0622> 「は？」
+<0622> "Huh?"
+
+//<0623> Yuri
+<0623> Yuri
+
+//<0624> Female Student
+<0624> Female Student
+
+//<0625> ??
+<0625> ??
+
+//<0626> 「どうせ、やることないんでしょ。記憶はしばらく戻らないかもしれないし、その間、うちの戦線に居ればいいじゃない？」
+<0626> "It's not like you have anything else to do. Your memory might not return for awhile, so isn't it okay to join our Battlefront in the meantime?"
+
+//<0627> Otonashi
+<0627> Otonashi
+
+//<0628> Punk
+<0628> Punk
+
+//<0629> Substitute
+<0629> Substitute
+
+//<0630> Uncanny Stud
+<0630> Uncanny Stud
+
+//<0631> Lolicon
+<0631> Lolicon
+
+//<0632> Glasses Comrade
+<0632> Glasses Comrade
+
+//<0633> Japanese Mental Mathstermind
+<0633> Japanese Mental Mathstermind
+
+//<0634> Phantom Slasher
+<0634> Phantom Slasher
+
+//<0635> Amnesiac
+<0635> Amnesiac
+
+//<0636> Onsoku
+<0636> Onsoku
+
+//<0637> Mugen
+<0637> Mugen
+
+//<0638> Ero Samurai
+<0638> Ero Samurai
+
+//<0639> Ero Ero Numero Uno
+<0639> Ero Ero Numero Uno
+
+//<0640> Just a Pervert
+<0640> Just a Pervert
+
+//<0641> Uglyuri
+<0641> Uglyuri
+
+//<0642> Depussy
+<0642> Depussy
+
+//<0643> Horndog
+<0643> Horndog
+
+//<0644> Zeus
+<0644> Zeus
+
+//<0645> Hinata Mk.Ⅱ
+<0645> Hinata Mk.Ⅱ
+
+//<0646> Dung Beatle
+<0646> Dung Beatle
+
+//<0647> Hinata Clone
+<0647> Hinata Clone
+
+//<0648> ??
+<0648> ??
+
+//<0649> 「その戦線ってのはなに」
+<0649> "What is this battlefront?"
+
+//<0650> Yuri
+<0650> Yuri
+
+//<0651> Female Student
+<0651> Female Student
+
+//<0652> ??
+<0652> ??
+
+//<0653> 「『死んでたまるか戦線』」
+<0653> "The 'I-Ain't-Dead-Yet' Battlefront."
+
+//<0654> Yuri
+<0654> Yuri
+
+//<0655> Female Student
+<0655> Female Student
+
+//<0656> ??
+<0656> ??
+
+//<0657> 「まあ、部隊名はよく変わるわ」
+<0657> "Well, the name changes a lot."
+
+//<0658> Yuri
+<0658> Yuri
+
+//<0659> Female Student
+<0659> Female Student
+
+//<0660> ??
+<0660> ??
+
+//<0661> 「最初は『死んだ世界戦線』、ローマ字にした頭３つを取って、
+<0661> "At first it was called the SSS, short for the
+{10bcc} 3e // 0661
+
+//<0662> スリーエス
+<0662> Shinda Sekai Sensen
+
+//<0663> ＳＳＳ
+<0663> Afterlife Battlefront
+{10c87} 3d // 0663
+
+//<0664> と略してる」
+<0664> ."
+
+//<0665> 女生徒は、ほら、と制服の袖に付いているワッペンを指さした。
+<0665> The girl pointed to a badge on her uniform.
+
+//<0666> 確かにＳＳＳの表記が、月明かりの中でも確認できた。
+<0666> I could definitely see the SSS written on it under the moonlight.
+
+//<0667> nothing
+<0667> nothing
+
+//<0668> 
+<0668> 
+
+//<0669> 
+<0669> 
+
+//<0670> nothing
+<0670> nothing
+
+//<0671> Yuri
+<0671> Yuri
+
+//<0672> Female Student
+<0672> Female Student
+
+//<0673> ??
+<0673> ??
+
+//<0674> 「でも『死んだ世界戦線』って、死んだことを認めてることになるんじゃね？という意見により破棄」
+<0674> "But some argued that 'Afterlife Battlefront' would mean accepting that we died."
+
+//<0675> Yuri
+<0675> Yuri
+
+//<0676> Female Student
+<0676> Female Student
+
+//<0677> ??
+<0677> ??
+
+//<0678> 「以後、変遷を続けてる。今は『死んでたまるか戦線』」
+<0678> "It kept changing after that. Right now it's the 'I-Ain't-Dead-Yet' Battlefront."
+
+//<0679> Yuri
+<0679> Yuri
+
+//<0680> Female Student
+<0680> Female Student
+
+//<0681> ??
+<0681> ??
+
+//<0682> 「その前は『生きた心地がしない戦線』だったわ。完全にネタだったから一日で変わったけど」
+<0682> "Before it was the 'It-Doesn't-Feel-Like-I'm-Alive' Battlefront. That was a real joke though, so it got changed within a day."
+
+//<0683> Yuri
+<0683> Yuri
+
+//<0684> Female Student
+<0684> Female Student
+
+//<0685> ??
+<0685> ??
+
+//<0686> 「冗談で言ったら『マリッジブルー戦線』になったこともあったわ。何と戦う集団なのよって話ね」
+<0686> "And even if it was a joke, it once became the 'Marriage Blues Battlefront.' What kind of fighting group is that?"
+
+//<0687> Yuri
+<0687> Yuri
+
+//<0688> Female Student
+<0688> Female Student
+
+//<0689> ??
+<0689> ??
+
+//<0690> 「もしあなたにもっとマシな案があるなら聞かせて。あたしが考えるの、飽きてきたところなの」
+<0690> "Let me know if you have a better idea. I'm tired of thinking about it."
+
+//<0691> かなり喋ってもらったが、どうでもいいことばかりじゃないか。俺はまず当然の疑問を口にすることにした。
+<0691> Even though she was talking so much, it was all pointless ranting. I started by asking the most obvious question.
+
+//<0692> Otonashi
+<0692> Otonashi
+
+//<0693> Punk
+<0693> Punk
+
+//<0694> Substitute
+<0694> Substitute
+
+//<0695> Uncanny Stud
+<0695> Uncanny Stud
+
+//<0696> Lolicon
+<0696> Lolicon
+
+//<0697> Glasses Comrade
+<0697> Glasses Comrade
+
+//<0698> Japanese Mental Mathstermind
+<0698> Japanese Mental Mathstermind
+
+//<0699> Phantom Slasher
+<0699> Phantom Slasher
+
+//<0700> Amnesiac
+<0700> Amnesiac
+
+//<0701> Onsoku
+<0701> Onsoku
+
+//<0702> Mugen
+<0702> Mugen
+
+//<0703> Ero Samurai
+<0703> Ero Samurai
+
+//<0704> Ero Ero Numero Uno
+<0704> Ero Ero Numero Uno
+
+//<0705> Just a Pervert
+<0705> Just a Pervert
+
+//<0706> Uglyuri
+<0706> Uglyuri
+
+//<0707> Depussy
+<0707> Depussy
+
+//<0708> Horndog
+<0708> Horndog
+
+//<0709> Zeus
+<0709> Zeus
+
+//<0710> Hinata Mk.Ⅱ
+<0710> Hinata Mk.Ⅱ
+
+//<0711> Dung Beatle
+<0711> Dung Beatle
+
+//<0712> Hinata Clone
+<0712> Hinata Clone
+
+//<0713> ??
+<0713> ??
+
+//<0714> 「あのさ…それって本物の銃？」
+<0714> "So... Is that a real gun?"
+
+//<0715> Yuri
+<0715> Yuri
+
+//<0716> Female Student
+<0716> Female Student
+
+//<0717> ??
+<0717> ??
+
+//<0718> 「はぁ…ここに来た奴はみんなそんな反応するのよね。順応性を高めなさいよ。あるがままを受け止めなさい」
+<0718> "Haa... Everyone who comes here has the same reaction. You need to be more flexible and just accept reality."
+
+//<0719> Otonashi
+<0719> Otonashi
+
+//<0720> Punk
+<0720> Punk
+
+//<0721> Substitute
+<0721> Substitute
+
+//<0722> Uncanny Stud
+<0722> Uncanny Stud
+
+//<0723> Lolicon
+<0723> Lolicon
+
+//<0724> Glasses Comrade
+<0724> Glasses Comrade
+
+//<0725> Japanese Mental Mathstermind
+<0725> Japanese Mental Mathstermind
+
+//<0726> Phantom Slasher
+<0726> Phantom Slasher
+
+//<0727> Amnesiac
+<0727> Amnesiac
+
+//<0728> Onsoku
+<0728> Onsoku
+
+//<0729> Mugen
+<0729> Mugen
+
+//<0730> Ero Samurai
+<0730> Ero Samurai
+
+//<0731> Ero Ero Numero Uno
+<0731> Ero Ero Numero Uno
+
+//<0732> Just a Pervert
+<0732> Just a Pervert
+
+//<0733> Uglyuri
+<0733> Uglyuri
+
+//<0734> Depussy
+<0734> Depussy
+
+//<0735> Horndog
+<0735> Horndog
+
+//<0736> Zeus
+<0736> Zeus
+
+//<0737> Hinata Mk.Ⅱ
+<0737> Hinata Mk.Ⅱ
+
+//<0738> Dung Beatle
+<0738> Dung Beatle
+
+//<0739> Hinata Clone
+<0739> Hinata Clone
+
+//<0740> ??
+<0740> ??
+
+//<0741> 「受け止めて…どうすればいいんだよ…」
+<0741> 「Accept it... And then what?」
+
+//<0742> Yuri
+<0742> Yuri
+
+//<0743> Female Student
+<0743> Female Student
+
+//<0744> ??
+<0744> ??
+
+//<0745> 「戦うのよ」
+<0745> "You fight."
+
+//<0746> Otonashi
+<0746> Otonashi
+
+//<0747> Punk
+<0747> Punk
+
+//<0748> Substitute
+<0748> Substitute
+
+//<0749> Uncanny Stud
+<0749> Uncanny Stud
+
+//<0750> Lolicon
+<0750> Lolicon
+
+//<0751> Glasses Comrade
+<0751> Glasses Comrade
+
+//<0752> Japanese Mental Mathstermind
+<0752> Japanese Mental Mathstermind
+
+//<0753> Phantom Slasher
+<0753> Phantom Slasher
+
+//<0754> Amnesiac
+<0754> Amnesiac
+
+//<0755> Onsoku
+<0755> Onsoku
+
+//<0756> Mugen
+<0756> Mugen
+
+//<0757> Ero Samurai
+<0757> Ero Samurai
+
+//<0758> Ero Ero Numero Uno
+<0758> Ero Ero Numero Uno
+
+//<0759> Just a Pervert
+<0759> Just a Pervert
+
+//<0760> Uglyuri
+<0760> Uglyuri
+
+//<0761> Depussy
+<0761> Depussy
+
+//<0762> Horndog
+<0762> Horndog
+
+//<0763> Zeus
+<0763> Zeus
+
+//<0764> Hinata Mk.Ⅱ
+<0764> Hinata Mk.Ⅱ
+
+//<0765> Dung Beatle
+<0765> Dung Beatle
+
+//<0766> Hinata Clone
+<0766> Hinata Clone
+
+//<0767> ??
+<0767> ??
+
+//<0768> 「何と？」
+<0768> "Against what?"
+
+//<0769> Yuri
+<0769> Yuri
+
+//<0770> Female Student
+<0770> Female Student
+
+//<0771> ??
+<0771> ??
+
+//<0772> 「あれよ」
+<0772> "That."
+
+//<0773> nothing
+<0773> nothing
+
+//<0774> 
+<0774> 
+
+//<0775> 
+<0775> 
+
+//<0776> nothing
+<0776> nothing
+
+//<0777> 彼女は照準の先を指さした。
+<0777> She points at something just ahead.
+
+//<0778> Yuri
+<0778> Yuri
+
+//<0779> Female Student
+<0779> Female Student
+
+//<0780> ??
+<0780> ??
+
+//<0781> 「あれが『死んでたまるか戦線』の敵…『Tenshi』よ。やっぱ『死んでたまるか戦線』はとっとと変えたいわ…あなた考えておいて」
+<0781> "That's the 'I-Ain't-Dead-Yet' Battlefront's enemy...'Tenshi.' I'd really like to hurry up and change 'I-Ain't-Dead-Yet' to something else... You, think of something."
+
+//<0782> nothing
+<0782> nothing
+
+//<0783> nothing
+<0783> nothing
+
+//<0784> nothing
+<0784> nothing
+
+//<0785> nothing
+<0785> nothing
+
+//<0786> nothing
+<0786> nothing
+
+//<0787> nothing
+<0787> nothing
+
+//<0788> 
+<0788> 
+
+//<0789> 
+<0789> 
+
+//<0790> nothing
+<0790> nothing
+
+//<0791> グラウンドを小さな歩幅で歩く女生徒。これも制服を着ているから女生徒だと思っただけだ。
+<0791> A female student was slowly walking across the grounds. Well, I assume she's a student since she's wearing a uniform.
+
+//<0792> Otonashi
+<0792> Otonashi
+
+//<0793> Punk
+<0793> Punk
+
+//<0794> Substitute
+<0794> Substitute
+
+//<0795> Uncanny Stud
+<0795> Uncanny Stud
+
+//<0796> Lolicon
+<0796> Lolicon
+
+//<0797> Glasses Comrade
+<0797> Glasses Comrade
+
+//<0798> Japanese Mental Mathstermind
+<0798> Japanese Mental Mathstermind
+
+//<0799> Phantom Slasher
+<0799> Phantom Slasher
+
+//<0800> Amnesiac
+<0800> Amnesiac
+
+//<0801> Onsoku
+<0801> Onsoku
+
+//<0802> Mugen
+<0802> Mugen
+
+//<0803> Ero Samurai
+<0803> Ero Samurai
+
+//<0804> Ero Ero Numero Uno
+<0804> Ero Ero Numero Uno
+
+//<0805> Just a Pervert
+<0805> Just a Pervert
+
+//<0806> Uglyuri
+<0806> Uglyuri
+
+//<0807> Depussy
+<0807> Depussy
+
+//<0808> Horndog
+<0808> Horndog
+
+//<0809> Zeus
+<0809> Zeus
+
+//<0810> Hinata Mk.Ⅱ
+<0810> Hinata Mk.Ⅱ
+
+//<0811> Dung Beatle
+<0811> Dung Beatle
+
+//<0812> Hinata Clone
+<0812> Hinata Clone
+
+//<0813> ??
+<0813> ??
+
+//<0814> 「Tenshi？　…普通の女の子じゃないか」
+<0814> "Tenshi? ...It's just a normal girl."
+
+//<0815> Yuri
+<0815> Yuri
+
+//<0816> Female Student
+<0816> Female Student
+
+//<0817> ??
+<0817> ??
+
+//<0818> 「そう見えるけど…あいつは人間じゃない…」
+<0818> "That's how she looks, but...that thing isn't human..."
+
+//<0819> Otonashi
+<0819> Otonashi
+
+//<0820> Punk
+<0820> Punk
+
+//<0821> Substitute
+<0821> Substitute
+
+//<0822> Uncanny Stud
+<0822> Uncanny Stud
+
+//<0823> Lolicon
+<0823> Lolicon
+
+//<0824> Glasses Comrade
+<0824> Glasses Comrade
+
+//<0825> Japanese Mental Mathstermind
+<0825> Japanese Mental Mathstermind
+
+//<0826> Phantom Slasher
+<0826> Phantom Slasher
+
+//<0827> Amnesiac
+<0827> Amnesiac
+
+//<0828> Onsoku
+<0828> Onsoku
+
+//<0829> Mugen
+<0829> Mugen
+
+//<0830> Ero Samurai
+<0830> Ero Samurai
+
+//<0831> Ero Ero Numero Uno
+<0831> Ero Ero Numero Uno
+
+//<0832> Just a Pervert
+<0832> Just a Pervert
+
+//<0833> Uglyuri
+<0833> Uglyuri
+
+//<0834> Depussy
+<0834> Depussy
+
+//<0835> Horndog
+<0835> Horndog
+
+//<0836> Zeus
+<0836> Zeus
+
+//<0837> Hinata Mk.Ⅱ
+<0837> Hinata Mk.Ⅱ
+
+//<0838> Dung Beatle
+<0838> Dung Beatle
+
+//<0839> Hinata Clone
+<0839> Hinata Clone
+
+//<0840> ??
+<0840> ??
+
+//<0841> 「はあ？」
+<0841> "Huh?"
+
+//<0842> Yuri
+<0842> Yuri
+
+//<0843> Female Student
+<0843> Female Student
+
+//<0844> ??
+<0844> ??
+
+//<0845> 「その凶悪なる力を行使して、あたしたちを無理矢理授業や、部活や、テストに追い立てるのよ…」
+<0845> "She forces us to do things like go to class, attend clubs, and take tests..."
+
+//<0846> Otonashi
+<0846> Otonashi
+
+//<0847> Punk
+<0847> Punk
+
+//<0848> Substitute
+<0848> Substitute
+
+//<0849> Uncanny Stud
+<0849> Uncanny Stud
+
+//<0850> Lolicon
+<0850> Lolicon
+
+//<0851> Glasses Comrade
+<0851> Glasses Comrade
+
+//<0852> Japanese Mental Mathstermind
+<0852> Japanese Mental Mathstermind
+
+//<0853> Phantom Slasher
+<0853> Phantom Slasher
+
+//<0854> Amnesiac
+<0854> Amnesiac
+
+//<0855> Onsoku
+<0855> Onsoku
+
+//<0856> Mugen
+<0856> Mugen
+
+//<0857> Ero Samurai
+<0857> Ero Samurai
+
+//<0858> Ero Ero Numero Uno
+<0858> Ero Ero Numero Uno
+
+//<0859> Just a Pervert
+<0859> Just a Pervert
+
+//<0860> Uglyuri
+<0860> Uglyuri
+
+//<0861> Depussy
+<0861> Depussy
+
+//<0862> Horndog
+<0862> Horndog
+
+//<0863> Zeus
+<0863> Zeus
+
+//<0864> Hinata Mk.Ⅱ
+<0864> Hinata Mk.Ⅱ
+
+//<0865> Dung Beatle
+<0865> Dung Beatle
+
+//<0866> Hinata Clone
+<0866> Hinata Clone
+
+//<0867> ??
+<0867> ??
+
+//<0868> 「へぇ…って、え？」
+<0868> "Ohh...wait, what?"
+
+//<0869> おいおい、待てよ…。
+<0869> Hey now, hold up...
+
+//<0870> Yuri
+<0870> Yuri
+
+//<0871> Female Student
+<0871> Female Student
+
+//<0872> ??
+<0872> ??
+
+//<0873> 「あなただって見つかればすぐ彼女のブラックリストに載ることになる」
+<0873> "If you're found, you'll immediately be put on her blacklist."
+
+//<0874> Yuri
+<0874> Yuri
+
+//<0875> Female Student
+<0875> Female Student
+
+//<0876> ??
+<0876> ??
+
+//<0877> 「そこから始まるのは…退屈な授業、疲れるだけの部活、馬鹿を試されるだけのテストの数々…」
+<0877> "And then it begins... Boring classes, tiresome club activities, and a bunch of tests to make you look like an idiot..."
+
+//<0878> 聞きながら、冷や汗が出てきた…。
+<0878> A cold sweat starts while I'm listening to her...
+
+//<0879> これはまずい。
+<0879> This is bad.
+
+//<0880> 一度はこいつを信じたが、却下させてもらいたい。
+<0880> I believed her once, but now I want to change my mind.
+
+//<0881> 状況が、じゃない…。
+<0881> This is wrong...
+
+//<0882> こいつがいかれていたんだ！
+<0882> This girl is crazy!
+//TL check
+
+//<0883> だから、俺はグラウンドを歩いている女生徒の方を指して提案した。
+<0883> That's why I point towards the other girl.
+
+//<0884> Otonashi
+<0884> Otonashi
+
+//<0885> Punk
+<0885> Punk
+
+//<0886> Substitute
+<0886> Substitute
+
+//<0887> Uncanny Stud
+<0887> Uncanny Stud
+
+//<0888> Lolicon
+<0888> Lolicon
+
+//<0889> Glasses Comrade
+<0889> Glasses Comrade
+
+//<0890> Japanese Mental Mathstermind
+<0890> Japanese Mental Mathstermind
+
+//<0891> Phantom Slasher
+<0891> Phantom Slasher
+
+//<0892> Amnesiac
+<0892> Amnesiac
+
+//<0893> Onsoku
+<0893> Onsoku
+
+//<0894> Mugen
+<0894> Mugen
+
+//<0895> Ero Samurai
+<0895> Ero Samurai
+
+//<0896> Ero Ero Numero Uno
+<0896> Ero Ero Numero Uno
+
+//<0897> Just a Pervert
+<0897> Just a Pervert
+
+//<0898> Uglyuri
+<0898> Uglyuri
+
+//<0899> Depussy
+<0899> Depussy
+
+//<0900> Horndog
+<0900> Horndog
+
+//<0901> Zeus
+<0901> Zeus
+
+//<0902> Hinata Mk.Ⅱ
+<0902> Hinata Mk.Ⅱ
+
+//<0903> Dung Beatle
+<0903> Dung Beatle
+
+//<0904> Hinata Clone
+<0904> Hinata Clone
+
+//<0905> ??
+<0905> ??
+
+//<0906> 「あの…向こうの方にいっていい？」
+<0906> "Umm... Mind if I go over there?"
+
+//<0907> nothing
+<0907> nothing
+
+//<0908> nothing
+<0908> nothing
+
+//<0909> nothing
+<0909> nothing
+
+//<0910> nothing
+<0910> nothing
+
+//<0911> nothing
+<0911> nothing
+
+//<0912> Yuri
+<0912> Yuri
+
+//<0913> Female Student
+<0913> Female Student
+
+//<0914> ??
+<0914> ??
+
+//<0915> 「はあ！？」
+<0915> "Huh!?"
+
+//<0916> nothing
+<0916> nothing
+
+//<0917> nothing
+<0917> nothing
+
+//<0918> nothing
+<0918> nothing
+
+//<0919> nothing
+<0919> nothing
+
+//<0920> nothing
+<0920> nothing
+
+//<0921> ライフルを投げ出して、俺に迫り寄る。
+<0921> She drops the rifle and rushes to me.
+
+//<0922> nothing
+<0922> nothing
+
+//<0923> nothing
+<0923> nothing
+
+//<0924> nothing
+<0924> nothing
+
+//<0925> nothing
+<0925> nothing
+
+//<0926> nothing
+<0926> nothing
+
+//<0927> Yuri
+<0927> Yuri
+
+//<0928> Female Student
+<0928> Female Student
+
+//<0929> ??
+<0929> ??
+
+//<0930> 「あなた、信じるって言ったじゃない！？　なのになぜっ！？　わけわかんないわっ！　どうしたらそんな思考に至るの！？　頭おかしいんじゃない！？」
+<0930> "Didn't you say you believed me!? So why!? I don't get it! How did you come up with that!? Is there something wrong with your head!?" 
+
+//<0931> これは完全に、こいつの言っていることがおかしい。そう確信した。
+<0931> Everything she's saying is absurd. I'm sure of it now.
+
+//<0932> だから、俺はグラウンドを歩いている女生徒の方を指して言った。
+<0932> That's why I point towards the other girl.
+
+//<0933> Otonashi
+<0933> Otonashi
+
+//<0934> Punk
+<0934> Punk
+
+//<0935> Substitute
+<0935> Substitute
+
+//<0936> Uncanny Stud
+<0936> Uncanny Stud
+
+//<0937> Lolicon
+<0937> Lolicon
+
+//<0938> Glasses Comrade
+<0938> Glasses Comrade
+
+//<0939> Japanese Mental Mathstermind
+<0939> Japanese Mental Mathstermind
+
+//<0940> Phantom Slasher
+<0940> Phantom Slasher
+
+//<0941> Amnesiac
+<0941> Amnesiac
+
+//<0942> Onsoku
+<0942> Onsoku
+
+//<0943> Mugen
+<0943> Mugen
+
+//<0944> Ero Samurai
+<0944> Ero Samurai
+
+//<0945> Ero Ero Numero Uno
+<0945> Ero Ero Numero Uno
+
+//<0946> Just a Pervert
+<0946> Just a Pervert
+
+//<0947> Uglyuri
+<0947> Uglyuri
+
+//<0948> Depussy
+<0948> Depussy
+
+//<0949> Horndog
+<0949> Horndog
+
+//<0950> Zeus
+<0950> Zeus
+
+//<0951> Hinata Mk.Ⅱ
+<0951> Hinata Mk.Ⅱ
+
+//<0952> Dung Beatle
+<0952> Dung Beatle
+
+//<0953> Hinata Clone
+<0953> Hinata Clone
+
+//<0954> ??
+<0954> ??
+
+//<0955> 「あの…向こうの方にいっていい？」
+<0955> "Umm... Mind if I go over there?"
+
+//<0956> nothing
+<0956> nothing
+
+//<0957> nothing
+<0957> nothing
+
+//<0958> nothing
+<0958> nothing
+
+//<0959> nothing
+<0959> nothing
+
+//<0960> nothing
+<0960> nothing
+
+//<0961> Yuri
+<0961> Yuri
+
+//<0962> Female Student
+<0962> Female Student
+
+//<0963> ??
+<0963> ??
+
+//<0964> 「はあ！？」
+<0964> "Huh!?"
+
+//<0965> nothing
+<0965> nothing
+
+//<0966> nothing
+<0966> nothing
+
+//<0967> nothing
+<0967> nothing
+
+//<0968> nothing
+<0968> nothing
+
+//<0969> nothing
+<0969> nothing
+
+//<0970> ライフルを投げ出して、俺に迫り寄る。
+<0970> She drops the rifle and rushes to me.
+
+//<0971> nothing
+<0971> nothing
+
+//<0972> nothing
+<0972> nothing
+
+//<0973> nothing
+<0973> nothing
+
+//<0974> nothing
+<0974> nothing
+
+//<0975> nothing
+<0975> nothing
+
+//<0976> Yuri
+<0976> Yuri
+
+//<0977> Female Student
+<0977> Female Student
+
+//<0978> ??
+<0978> ??
+
+//<0979> 「なぜっ！？　わけわかんないわっ！　どうしたらそんな思考に至るの！？　頭おかしいんじゃない！？」
+<0979> "Why!? I don't get it! Why would you even think about doing that that!? Is there something wrong with your head!?" 
+// We have 2 TLs for どうしたらそんな思考に至るの right now. We should probably either choose one of those to use or something similar that sounds better
+
+//<0980> nothing
+<0980> nothing
+
+//<0981> nothing
+<0981> nothing
+
+//<0982> nothing
+<0982> nothing
+
+//<0983> nothing
+<0983> nothing
+
+//<0984> nothing
+<0984> nothing
+
+//<0985> 今にものし掛かってきそうな体勢で、まくし立てるから、たくさん唾が飛んでくる。
+<0985> With an overbearing posture, she hurled those lines at me along with a bunch of spit.
+//QC check
+
+//<0986> Otonashi
+<0986> Otonashi
+
+//<0987> Punk
+<0987> Punk
+
+//<0988> Substitute
+<0988> Substitute
+
+//<0989> Uncanny Stud
+<0989> Uncanny Stud
+
+//<0990> Lolicon
+<0990> Lolicon
+
+//<0991> Glasses Comrade
+<0991> Glasses Comrade
+
+//<0992> Japanese Mental Mathstermind
+<0992> Japanese Mental Mathstermind
+
+//<0993> Phantom Slasher
+<0993> Phantom Slasher
+
+//<0994> Amnesiac
+<0994> Amnesiac
+
+//<0995> Onsoku
+<0995> Onsoku
+
+//<0996> Mugen
+<0996> Mugen
+
+//<0997> Ero Samurai
+<0997> Ero Samurai
+
+//<0998> Ero Ero Numero Uno
+<0998> Ero Ero Numero Uno
+
+//<0999> Just a Pervert
+<0999> Just a Pervert
+
+//<1000> Uglyuri
+<1000> Uglyuri
+
+//<1001> Depussy
+<1001> Depussy
+
+//<1002> Horndog
+<1002> Horndog
+
+//<1003> Zeus
+<1003> Zeus
+
+//<1004> Hinata Mk.Ⅱ
+<1004> Hinata Mk.Ⅱ
+
+//<1005> Dung Beatle
+<1005> Dung Beatle
+
+//<1006> Hinata Clone
+<1006> Hinata Clone
+
+//<1007> ??
+<1007> ??
+
+//<1008> 「いや、学生なんだから授業を受けるのは当然だろ」
+<1008> "No, it's just that students taking classes is normal."
+
+//<1009> nothing
+<1009> nothing
+
+//<1010> nothing
+<1010> nothing
+
+//<1011> nothing
+<1011> nothing
+
+//<1012> nothing
+<1012> nothing
+
+//<1013> nothing
+<1013> nothing
+
+//<1014> Yuri
+<1014> Yuri
+
+//<1015> Female Student
+<1015> Female Student
+
+//<1016> ??
+<1016> ??
+
+//<1017> 「死んでんのよ、あたしたち！？」
+<1017> "You know we're dead, right!?"
+
+//<1018> Otonashi
+<1018> Otonashi
+
+//<1019> Punk
+<1019> Punk
+
+//<1020> Substitute
+<1020> Substitute
+
+//<1021> Uncanny Stud
+<1021> Uncanny Stud
+
+//<1022> Lolicon
+<1022> Lolicon
+
+//<1023> Glasses Comrade
+<1023> Glasses Comrade
+
+//<1024> Japanese Mental Mathstermind
+<1024> Japanese Mental Mathstermind
+
+//<1025> Phantom Slasher
+<1025> Phantom Slasher
+
+//<1026> Amnesiac
+<1026> Amnesiac
+
+//<1027> Onsoku
+<1027> Onsoku
+
+//<1028> Mugen
+<1028> Mugen
+
+//<1029> Ero Samurai
+<1029> Ero Samurai
+
+//<1030> Ero Ero Numero Uno
+<1030> Ero Ero Numero Uno
+
+//<1031> Just a Pervert
+<1031> Just a Pervert
+
+//<1032> Uglyuri
+<1032> Uglyuri
+
+//<1033> Depussy
+<1033> Depussy
+
+//<1034> Horndog
+<1034> Horndog
+
+//<1035> Zeus
+<1035> Zeus
+
+//<1036> Hinata Mk.Ⅱ
+<1036> Hinata Mk.Ⅱ
+
+//<1037> Dung Beatle
+<1037> Dung Beatle
+
+//<1038> Hinata Clone
+<1038> Hinata Clone
+
+//<1039> ??
+<1039> ??
+
+//<1040> 「すごく矛盾したことを言う奴だな…。『死んでたまるか戦線』じゃなかったのか？」
+<1040> "Isn't that a huge contradiction... to the 'I-Ain't-Dead-Yet' Battlefront?"
+
+//<1041> nothing
+<1041> nothing
+
+//<1042> nothing
+<1042> nothing
+
+//<1043> nothing
+<1043> nothing
+
+//<1044> nothing
+<1044> nothing
+
+//<1045> nothing
+<1045> nothing
+
+//<1046> Yuri
+<1046> Yuri
+
+//<1047> Female Student
+<1047> Female Student
+
+//<1048> ??
+<1048> ??
+
+//<1049> 「その『死んでたまるか』は、このまま死んでたまるかっ、て意味！」
+<1049> "That 'I-Ain't-Dead-Yet' means we won't die like this!"
+
+//<1050> Otonashi
+<1050> Otonashi
+
+//<1051> Punk
+<1051> Punk
+
+//<1052> Substitute
+<1052> Substitute
+
+//<1053> Uncanny Stud
+<1053> Uncanny Stud
+
+//<1054> Lolicon
+<1054> Lolicon
+
+//<1055> Glasses Comrade
+<1055> Glasses Comrade
+
+//<1056> Japanese Mental Mathstermind
+<1056> Japanese Mental Mathstermind
+
+//<1057> Phantom Slasher
+<1057> Phantom Slasher
+
+//<1058> Amnesiac
+<1058> Amnesiac
+
+//<1059> Onsoku
+<1059> Onsoku
+
+//<1060> Mugen
+<1060> Mugen
+
+//<1061> Ero Samurai
+<1061> Ero Samurai
+
+//<1062> Ero Ero Numero Uno
+<1062> Ero Ero Numero Uno
+
+//<1063> Just a Pervert
+<1063> Just a Pervert
+
+//<1064> Uglyuri
+<1064> Uglyuri
+
+//<1065> Depussy
+<1065> Depussy
+
+//<1066> Horndog
+<1066> Horndog
+
+//<1067> Zeus
+<1067> Zeus
+
+//<1068> Hinata Mk.Ⅱ
+<1068> Hinata Mk.Ⅱ
+
+//<1069> Dung Beatle
+<1069> Dung Beatle
+
+//<1070> Hinata Clone
+<1070> Hinata Clone
+
+//<1071> ??
+<1071> ??
+
+//<1072> 「じゃあ死んでないじゃん。だったら、やっぱ授業を受けるほうが自然だ」
+<1072> "So you're not dead. Then taking classes is normal."
+
+//<1073> nothing
+<1073> nothing
+
+//<1074> nothing
+<1074> nothing
+
+//<1075> nothing
+<1075> nothing
+
+//<1076> nothing
+<1076> nothing
+
+//<1077> nothing
+<1077> nothing
+
+//<1078> Yuri
+<1078> Yuri
+
+//<1079> Female Student
+<1079> Female Student
+
+//<1080> ??
+<1080> ??
+
+//<1081> 「あのねぇ…死んじゃったけど、このまま死ねるかってぎりぎりのところで抗ってるの！　そこに今居るのよっ、ここはそういう世界なのよっ、そんな世界で授業を受ける義務なんてあるわけないじゃない！」
+<1081> "You know... We may be dead, but if we're gonna die, we'll still fight til the last minute! We're alive here right now. Thats how this world works, so there's no reason why we'd have to take tests!"
+//QC check
+{1e397} 10 // 1081
+
+//<1082> nothing
+<1082> nothing
+
+//<1083> nothing
+<1083> nothing
+
+//<1084> nothing
+<1084> nothing
+
+//<1085> nothing
+<1085> nothing
+
+//<1086> nothing
+<1086> nothing
+
+//<1087> Yuri
+<1087> Yuri
+
+//<1088> Female Student
+<1088> Female Student
+
+//<1089> ??
+<1089> ??
+{1e95c} 33 // 1089
+
+//<1090> 「あなたばっかなんじゃない！？　いっぺん死んだら？　これは死ねないこの世界でよく使われるジョークなんだけどどう？　笑えるかしら！？」
+<1090> "Are you stupid!? What if you died for good? That's our joke in this word where you can't die. How was it? Are you gonna laugh!?"
+
+//<1091> nothing
+<1091> nothing
+
+//<1092> nothing
+<1092> nothing
+
+//<1093> nothing
+<1093> nothing
+
+//<1094> nothing
+<1094> nothing
+
+//<1095> nothing
+<1095> nothing
+
+//<1096> 笑う
+<1096> Laugh
+
+//<1097> 冷静に対処する
+<1097> Answer calmly
+
+//<1098> selbtn : 
+<1098> selbtn : 
+
+//<1099> Otonashi
+<1099> Otonashi
+
+//<1100> Punk
+<1100> Punk
+
+//<1101> Substitute
+<1101> Substitute
+
+//<1102> Uncanny Stud
+<1102> Uncanny Stud
+
+//<1103> Lolicon
+<1103> Lolicon
+
+//<1104> Glasses Comrade
+<1104> Glasses Comrade
+
+//<1105> Japanese Mental Mathstermind
+<1105> Japanese Mental Mathstermind
+
+//<1106> Phantom Slasher
+<1106> Phantom Slasher
+
+//<1107> Amnesiac
+<1107> Amnesiac
+
+//<1108> Onsoku
+<1108> Onsoku
+
+//<1109> Mugen
+<1109> Mugen
+
+//<1110> Ero Samurai
+<1110> Ero Samurai
+
+//<1111> Ero Ero Numero Uno
+<1111> Ero Ero Numero Uno
+
+//<1112> Just a Pervert
+<1112> Just a Pervert
+
+//<1113> Uglyuri
+<1113> Uglyuri
+
+//<1114> Depussy
+<1114> Depussy
+
+//<1115> Horndog
+<1115> Horndog
+
+//<1116> Zeus
+<1116> Zeus
+
+//<1117> Hinata Mk.Ⅱ
+<1117> Hinata Mk.Ⅱ
+
+//<1118> Dung Beatle
+<1118> Dung Beatle
+
+//<1119> Hinata Clone
+<1119> Hinata Clone
+
+//<1120> ??
+<1120> ??
+
+//<1121> 「はっはっは…」
+<1121> "Haahaaha..."
+
+//<1122> nothing
+<1122> nothing
+
+//<1123> nothing
+<1123> nothing
+
+//<1124> nothing
+<1124> nothing
+
+//<1125> nothing
+<1125> nothing
+
+//<1126> nothing
+<1126> nothing
+
+//<1127> Yuri
+<1127> Yuri
+
+//<1128> Female Student
+<1128> Female Student
+
+//<1129> ??
+<1129> ??
+
+//<1130> 「なんて乾いた笑い！　この世界では鉄板ジョークなのに！」
+<1130> "Such a dry laugh! Even though it's a sure-fire joke in this world!"
+
+//<1131> Otonashi
+<1131> Otonashi
+
+//<1132> Punk
+<1132> Punk
+
+//<1133> Substitute
+<1133> Substitute
+
+//<1134> Uncanny Stud
+<1134> Uncanny Stud
+
+//<1135> Lolicon
+<1135> Lolicon
+
+//<1136> Glasses Comrade
+<1136> Glasses Comrade
+
+//<1137> Japanese Mental Mathstermind
+<1137> Japanese Mental Mathstermind
+
+//<1138> Phantom Slasher
+<1138> Phantom Slasher
+
+//<1139> Amnesiac
+<1139> Amnesiac
+
+//<1140> Onsoku
+<1140> Onsoku
+
+//<1141> Mugen
+<1141> Mugen
+
+//<1142> Ero Samurai
+<1142> Ero Samurai
+
+//<1143> Ero Ero Numero Uno
+<1143> Ero Ero Numero Uno
+
+//<1144> Just a Pervert
+<1144> Just a Pervert
+
+//<1145> Uglyuri
+<1145> Uglyuri
+
+//<1146> Depussy
+<1146> Depussy
+
+//<1147> Horndog
+<1147> Horndog
+
+//<1148> Zeus
+<1148> Zeus
+
+//<1149> Hinata Mk.Ⅱ
+<1149> Hinata Mk.Ⅱ
+
+//<1150> Dung Beatle
+<1150> Dung Beatle
+
+//<1151> Hinata Clone
+<1151> Hinata Clone
+
+//<1152> ??
+<1152> ??
+
+//<1153> 「いや、これぐらいで許してくれよ」
+<1153> "No, please excuse at least this."
+// Or maybe "forgive me at least this"?
+
+//<1154> Otonashi
+<1154> Otonashi
+
+//<1155> Punk
+<1155> Punk
+
+//<1156> Substitute
+<1156> Substitute
+
+//<1157> Uncanny Stud
+<1157> Uncanny Stud
+
+//<1158> Lolicon
+<1158> Lolicon
+
+//<1159> Glasses Comrade
+<1159> Glasses Comrade
+
+//<1160> Japanese Mental Mathstermind
+<1160> Japanese Mental Mathstermind
+
+//<1161> Phantom Slasher
+<1161> Phantom Slasher
+
+//<1162> Amnesiac
+<1162> Amnesiac
+
+//<1163> Onsoku
+<1163> Onsoku
+
+//<1164> Mugen
+<1164> Mugen
+
+//<1165> Ero Samurai
+<1165> Ero Samurai
+
+//<1166> Ero Ero Numero Uno
+<1166> Ero Ero Numero Uno
+
+//<1167> Just a Pervert
+<1167> Just a Pervert
+
+//<1168> Uglyuri
+<1168> Uglyuri
+
+//<1169> Depussy
+<1169> Depussy
+
+//<1170> Horndog
+<1170> Horndog
+
+//<1171> Zeus
+<1171> Zeus
+
+//<1172> Hinata Mk.Ⅱ
+<1172> Hinata Mk.Ⅱ
+
+//<1173> Dung Beatle
+<1173> Dung Beatle
+
+//<1174> Hinata Clone
+<1174> Hinata Clone
+
+//<1175> ??
+<1175> ??
+
+//<1176> 「とりあえず、どいてくれないか？」
+<1176> "Anyway, can you move?"
+
+//<1177> Otonashi
+<1177> Otonashi
+
+//<1178> Punk
+<1178> Punk
+
+//<1179> Substitute
+<1179> Substitute
+
+//<1180> Uncanny Stud
+<1180> Uncanny Stud
+
+//<1181> Lolicon
+<1181> Lolicon
+
+//<1182> Glasses Comrade
+<1182> Glasses Comrade
+
+//<1183> Japanese Mental Mathstermind
+<1183> Japanese Mental Mathstermind
+
+//<1184> Phantom Slasher
+<1184> Phantom Slasher
+
+//<1185> Amnesiac
+<1185> Amnesiac
+
+//<1186> Onsoku
+<1186> Onsoku
+
+//<1187> Mugen
+<1187> Mugen
+
+//<1188> Ero Samurai
+<1188> Ero Samurai
+
+//<1189> Ero Ero Numero Uno
+<1189> Ero Ero Numero Uno
+
+//<1190> Just a Pervert
+<1190> Just a Pervert
+
+//<1191> Uglyuri
+<1191> Uglyuri
+
+//<1192> Depussy
+<1192> Depussy
+
+//<1193> Horndog
+<1193> Horndog
+
+//<1194> Zeus
+<1194> Zeus
+
+//<1195> Hinata Mk.Ⅱ
+<1195> Hinata Mk.Ⅱ
+
+//<1196> Dung Beatle
+<1196> Dung Beatle
+
+//<1197> Hinata Clone
+<1197> Hinata Clone
+
+//<1198> ??
+<1198> ??
+
+//<1199> 「まあ、ジョークの感想はいいとして、俺、向こう行くから、どいてくれないか？」
+<1199> "Well, I think I get the joke, but can you move so I can go over there?"
+
+//<1200> nothing
+<1200> nothing
+
+//<1201> nothing
+<1201> nothing
+
+//<1202> nothing
+<1202> nothing
+
+//<1203> nothing
+<1203> nothing
+
+//<1204> nothing
+<1204> nothing
+
+//<1205> Yuri
+<1205> Yuri
+
+//<1206> Female Student
+<1206> Female Student
+
+//<1207> ??
+<1207> ??
+
+//<1208> "......"
+<1208> "......"
+
+//<1209> 黙ったままこっちを見ている。そんな女生徒の隣を通り過ぎる時。
+<1209> She silently stares at me as the seconds pass by.
+
+//<1210> nothing
+<1210> nothing
+
+//<1211> nothing
+<1211> nothing
+
+//<1212> nothing
+<1212> nothing
+
+//<1213> nothing
+<1213> nothing
+
+//<1214> nothing
+<1214> nothing
+
+//<1215> Yuri
+<1215> Yuri
+
+//<1216> Female Student
+<1216> Female Student
+
+//<1217> ??
+<1217> ??
+
+//<1218> 「…あなた、それでいいの」
+<1218> "...are you really OK with that?"
+
+//<1219> Otonashi
+<1219> Otonashi
+
+//<1220> Punk
+<1220> Punk
+
+//<1221> Substitute
+<1221> Substitute
+
+//<1222> Uncanny Stud
+<1222> Uncanny Stud
+
+//<1223> Lolicon
+<1223> Lolicon
+
+//<1224> Glasses Comrade
+<1224> Glasses Comrade
+
+//<1225> Japanese Mental Mathstermind
+<1225> Japanese Mental Mathstermind
+
+//<1226> Phantom Slasher
+<1226> Phantom Slasher
+
+//<1227> Amnesiac
+<1227> Amnesiac
+
+//<1228> Onsoku
+<1228> Onsoku
+
+//<1229> Mugen
+<1229> Mugen
+
+//<1230> Ero Samurai
+<1230> Ero Samurai
+
+//<1231> Ero Ero Numero Uno
+<1231> Ero Ero Numero Uno
+
+//<1232> Just a Pervert
+<1232> Just a Pervert
+
+//<1233> Uglyuri
+<1233> Uglyuri
+
+//<1234> Depussy
+<1234> Depussy
+
+//<1235> Horndog
+<1235> Horndog
+
+//<1236> Zeus
+<1236> Zeus
+
+//<1237> Hinata Mk.Ⅱ
+<1237> Hinata Mk.Ⅱ
+
+//<1238> Dung Beatle
+<1238> Dung Beatle
+
+//<1239> Hinata Clone
+<1239> Hinata Clone
+
+//<1240> ??
+<1240> ??
+
+//<1241> 「なにが」
+<1241> "OK with what?"
+
+//<1242> nothing
+<1242> nothing
+
+//<1243> nothing
+<1243> nothing
+
+//<1244> nothing
+<1244> nothing
+
+//<1245> nothing
+<1245> nothing
+
+//<1246> nothing
+<1246> nothing
+
+//<1247> Yuri
+<1247> Yuri
+
+//<1248> Female Student
+<1248> Female Student
+
+//<1249> ??
+<1249> ??
+
+//<1250> 「授業受けて、部活して、テスト受けて、それで消えちゃって…」
+<1250> "Going to class, doing club activies, taking tests, and then disappearing..."
+
+//<1251> Otonashi
+<1251> Otonashi
+
+//<1252> Punk
+<1252> Punk
+
+//<1253> Substitute
+<1253> Substitute
+
+//<1254> Uncanny Stud
+<1254> Uncanny Stud
+
+//<1255> Lolicon
+<1255> Lolicon
+
+//<1256> Glasses Comrade
+<1256> Glasses Comrade
+
+//<1257> Japanese Mental Mathstermind
+<1257> Japanese Mental Mathstermind
+
+//<1258> Phantom Slasher
+<1258> Phantom Slasher
+
+//<1259> Amnesiac
+<1259> Amnesiac
+
+//<1260> Onsoku
+<1260> Onsoku
+
+//<1261> Mugen
+<1261> Mugen
+
+//<1262> Ero Samurai
+<1262> Ero Samurai
+
+//<1263> Ero Ero Numero Uno
+<1263> Ero Ero Numero Uno
+
+//<1264> Just a Pervert
+<1264> Just a Pervert
+
+//<1265> Uglyuri
+<1265> Uglyuri
+
+//<1266> Depussy
+<1266> Depussy
+
+//<1267> Horndog
+<1267> Horndog
+
+//<1268> Zeus
+<1268> Zeus
+
+//<1269> Hinata Mk.Ⅱ
+<1269> Hinata Mk.Ⅱ
+
+//<1270> Dung Beatle
+<1270> Dung Beatle
+
+//<1271> Hinata Clone
+<1271> Hinata Clone
+
+//<1272> ??
+<1272> ??
+
+//<1273> 「いや、だから、そういう話は…」
+<1273> "Like I said, that's..."
+
+//<1274> nothing
+<1274> nothing
+
+//<1275> nothing
+<1275> nothing
+
+//<1276> nothing
+<1276> nothing
+
+//<1277> nothing
+<1277> nothing
+
+//<1278> nothing
+<1278> nothing
+
+//<1279> Yuri
+<1279> Yuri
+
+//<1280> Female Student
+<1280> Female Student
+
+//<1281> ??
+<1281> ??
+
+//<1282> 「ほんとうの意味で死んじゃうのよ？」
+<1282> "That you'll die in the truest meaning of the word?"
+
+//<1283> その顔はいやに神妙だ。
+<1283> Her face tells me she's not messing around.
+//TL check
+
+//<1284> nothing
+<1284> nothing
+
+//<1285> nothing
+<1285> nothing
+
+//<1286> nothing
+<1286> nothing
+
+//<1287> nothing
+<1287> nothing
+
+//<1288> nothing
+<1288> nothing
+
+//<1289> Yuri
+<1289> Yuri
+
+//<1290> Female Student
+<1290> Female Student
+
+//<1291> ??
+<1291> ??
+
+//<1292> 「でも、今あなたはここに存在している」
+<1292> "Even though you exist right here and now."
+
+//<1293> nothing
+<1293> nothing
+
+//<1294> nothing
+<1294> nothing
+
+//<1295> nothing
+<1295> nothing
+
+//<1296> nothing
+<1296> nothing
+
+//<1297> nothing
+<1297> nothing
+
+//<1298> Yuri
+<1298> Yuri
+
+//<1299> Female Student
+<1299> Female Student
+
+//<1300> ??
+<1300> ??
+
+//<1301> 「それをみすみす捨ててしまうの？　それをあなたは、悲しいと思わないの？」
+<1301> "You'll just throw that away? Don't you think that's sad?"
+
+//<1302> Otonashi
+<1302> Otonashi
+
+//<1303> Punk
+<1303> Punk
+
+//<1304> Substitute
+<1304> Substitute
+
+//<1305> Uncanny Stud
+<1305> Uncanny Stud
+
+//<1306> Lolicon
+<1306> Lolicon
+
+//<1307> Glasses Comrade
+<1307> Glasses Comrade
+
+//<1308> Japanese Mental Mathstermind
+<1308> Japanese Mental Mathstermind
+
+//<1309> Phantom Slasher
+<1309> Phantom Slasher
+
+//<1310> Amnesiac
+<1310> Amnesiac
+
+//<1311> Onsoku
+<1311> Onsoku
+
+//<1312> Mugen
+<1312> Mugen
+
+//<1313> Ero Samurai
+<1313> Ero Samurai
+
+//<1314> Ero Ero Numero Uno
+<1314> Ero Ero Numero Uno
+
+//<1315> Just a Pervert
+<1315> Just a Pervert
+
+//<1316> Uglyuri
+<1316> Uglyuri
+
+//<1317> Depussy
+<1317> Depussy
+
+//<1318> Horndog
+<1318> Horndog
+
+//<1319> Zeus
+<1319> Zeus
+
+//<1320> Hinata Mk.Ⅱ
+<1320> Hinata Mk.Ⅱ
+
+//<1321> Dung Beatle
+<1321> Dung Beatle
+
+//<1322> Hinata Clone
+<1322> Hinata Clone
+
+//<1323> ??
+<1323> ??
+
+//<1324> "......"
+<1324> "......"
+
+//<1325> 俺は黙り込んでしまう。
+<1325> I couldn't respond.
+
+//<1326> 日向
+<1326> Hinata
+
+//<1327> 男Ｂ
+<1327> Boy B
+
+//<1328> エロエロ団総帥
+<1328> Ero Ero Captain
+
+//<1329> イケチン
+<1329> Hottie-chin
+
+//<1330> ホモ太
+<1330> Homota
+
+//<1331> ひなチン
+<1331> Hina-chin
+
+//<1332> 秀樹
+<1332> Hideki
+
+//<1333> 男子生徒
+<1333> Male Student
+
+//<1334> ??
+<1334> ??
+
+//<1335> 「ゆりっぺ、新人の勧誘の手はずはどうだ」
+<1335> "Yurippe, how goes convincing the newcomer?"
+// "Yurippe, how's convincing the new recruit going?"
+
+//<1336> nothing
+<1336> nothing
+
+//<1337> nothing
+<1337> nothing
+
+//<1338> nothing
+<1338> nothing
+
+//<1339> nothing
+<1339> nothing
+
+//<1340> 新しい声。
+<1340> A new voice.
+
+//<1341> nothing
+<1341> nothing
+
+//<1342> nothing
+<1342> nothing
+
+//<1343> nothing
+<1343> nothing
+
+//<1344> nothing
+<1344> nothing
+
+//<1345> nothing
+<1345> nothing
+
+//<1346> Hinata
+<1346> Hinata
+
+//<1347> Boy B
+<1347> Boy B
+
+//<1348> Ero Ero Captain
+<1348> Ero Ero Captain
+
+//<1349> Hottie-chin
+<1349> Hottie-chin
+
+//<1350> Homota
+<1350> Homota
+
+//<1351> Hina-chin
+<1351> Hina-chin
+
+//<1352> Hideki
+<1352> Hideki
+
+//<1353> Male Student
+<1353> Male Student
+
+//<1354> ??
+<1354> ??
+
+//<1355> 「ちょろいとか言ってたけどさ」
+<1355> "You said it'd be a cinch."
+
+//<1356> nothing
+<1356> nothing
+
+//<1357> nothing
+<1357> nothing
+
+//<1358> nothing
+<1358> nothing
+
+//<1359> nothing
+<1359> nothing
+
+//<1360> nothing
+<1360> nothing
+
+//<1361> 勧誘…？　ちょろい…？
+<1361> Convincing...? Cinch...?
+
+//<1362> nothing
+<1362> nothing
+
+//<1363> nothing
+<1363> nothing
+
+//<1364> nothing
+<1364> nothing
+
+//<1365> nothing
+<1365> nothing
+
+//<1366> nothing
+<1366> nothing
+
+//<1367> Hinata
+<1367> Hinata
+
+//<1368> Boy B
+<1368> Boy B
+
+//<1369> Ero Ero Captain
+<1369> Ero Ero Captain
+
+//<1370> Hottie-chin
+<1370> Hottie-chin
+
+//<1371> Homota
+<1371> Homota
+
+//<1372> Hina-chin
+<1372> Hina-chin
+
+//<1373> Hideki
+<1373> Hideki
+
+//<1374> Male Student
+<1374> Male Student
+
+//<1375> ??
+<1375> ??
+
+//<1376> 「やべ…」
+<1376> "Uh oh..."
+
+//<1377> 仲間か。吹っ切れた。
+<1377> He's her friend. I'm certain.
+
+//<1378> Otonashi
+<1378> Otonashi
+
+//<1379> Punk
+<1379> Punk
+
+//<1380> Substitute
+<1380> Substitute
+
+//<1381> Uncanny Stud
+<1381> Uncanny Stud
+
+//<1382> Lolicon
+<1382> Lolicon
+
+//<1383> Glasses Comrade
+<1383> Glasses Comrade
+
+//<1384> Japanese Mental Mathstermind
+<1384> Japanese Mental Mathstermind
+
+//<1385> Phantom Slasher
+<1385> Phantom Slasher
+
+//<1386> Amnesiac
+<1386> Amnesiac
+
+//<1387> Onsoku
+<1387> Onsoku
+
+//<1388> Mugen
+<1388> Mugen
+
+//<1389> Ero Samurai
+<1389> Ero Samurai
+
+//<1390> Ero Ero Numero Uno
+<1390> Ero Ero Numero Uno
+
+//<1391> Just a Pervert
+<1391> Just a Pervert
+
+//<1392> Uglyuri
+<1392> Uglyuri
+
+//<1393> Depussy
+<1393> Depussy
+
+//<1394> Horndog
+<1394> Horndog
+
+//<1395> Zeus
+<1395> Zeus
+
+//<1396> Hinata Mk.Ⅱ
+<1396> Hinata Mk.Ⅱ
+
+//<1397> Dung Beatle
+<1397> Dung Beatle
+
+//<1398> Hinata Clone
+<1398> Hinata Clone
+
+//<1399> ??
+<1399> ??
+
+//<1400> 「俺、向こういくわ」
+<1400> "I'm going over there."
+
+//<1401> 銃の照準を合わせられていた、小柄な別の女生徒は運動場に居た。近づくため、目の前の大階段を降り始める。
+<1401> In the direction that the girl had been pointing the gun, the other petite female student is still on the grounds. I head down the large staircase in fornt of us.
+
+//<1402> Yuri
+<1402> Yuri
+
+//<1403> Female Student
+<1403> Female Student
+
+//<1404> ??
+<1404> ??
+
+//<1405> 「うああぁああぁぁ、勧誘に失敗したああぁぁぁ！」
+<1405> "Waaaaaaa, my recruitment failed!"
+
+//<1406> Hinata
+<1406> Hinata
+
+//<1407> Boy B
+<1407> Boy B
+
+//<1408> Ero Ero Captain
+<1408> Ero Ero Captain
+
+//<1409> Hottie-chin
+<1409> Hottie-chin
+
+//<1410> Homota
+<1410> Homota
+
+//<1411> Hina-chin
+<1411> Hina-chin
+
+//<1412> Hideki
+<1412> Hideki
+
+//<1413> Male Student
+<1413> Male Student
+
+//<1414> ??
+<1414> ??
+
+//<1415> 「え？　俺のせい？」
+<1415> "Eh? Is it my fault?"
+
+//<1416> Yuri
+<1416> Yuri
+
+//<1417> Female Student
+<1417> Female Student
+
+//<1418> ??
+<1418> ??
+
+//<1419> 「他に誰がいるんだああぁぁーー！　こらあぁぁぁーー！！」
+<1419> "Who else could it beeeee! Argggghhh!!
+
+//<1420> 背中から賑やかな声が聞こえてくるが当然無視。
+<1420> I obviously ignore the racket behind me.
+
+//<1421> わけがわからない。なんなんだ、ったく…。
+<1421> I just don't get it. Seriously...
+
+//<1422> nothing
+<1422> nothing
+
+//<1423> nothing
+<1423> nothing
+
+//<1424> nothing
+<1424> nothing
+
+//<1425> nothing
+<1425> nothing
+
+//<1426> nothing
+<1426> nothing
+
+//<1427> 視界には入っているはずなのに、女生徒は全然俺に気づいてくれない。
+<1427> Even though she should be able to see me by now, the girl doesn't seem to have noticed me at all.
+
+//<1428> なので仕方なく、俺はその前に立ちふさがった。
+<1428> I don't really have any other choice, so I move directly in front of her.
+
+//<1429> 嫌でも俺に気づく。
+<1429> Though I realize it's discomforting.
+
+//<1430> nothing
+<1430> nothing
+
+//<1431> nothing
+<1431> nothing
+
+//<1432> nothing
+<1432> nothing
+
+//<1433> nothing
+<1433> nothing
+
+//<1434> nothing
+<1434> nothing
+
+//<1435> Tenshi
+<1435> Tenshi
+
+//<1436> Kanade
+<1436> Kanade
+
+//<1437> Female Student
+<1437> Female Student
+
+//<1438> ??
+<1438> ??
+
+//<1439> "......"
+<1439> "......"
+
+//<1440> しかし、彼女の反応は目を合わせるのみだった。
+<1440> However, her only reaction is to make eye contact.
+
+//<1441> だからこちらから話しかける。
+<1441> But this way I can speak to her.
+
+//<1442> Otonashi
+<1442> Otonashi
+
+//<1443> Punk
+<1443> Punk
+
+//<1444> Substitute
+<1444> Substitute
+
+//<1445> Uncanny Stud
+<1445> Uncanny Stud
+
+//<1446> Lolicon
+<1446> Lolicon
+
+//<1447> Glasses Comrade
+<1447> Glasses Comrade
+
+//<1448> Japanese Mental Mathstermind
+<1448> Japanese Mental Mathstermind
+
+//<1449> Phantom Slasher
+<1449> Phantom Slasher
+
+//<1450> Amnesiac
+<1450> Amnesiac
+
+//<1451> Onsoku
+<1451> Onsoku
+
+//<1452> Mugen
+<1452> Mugen
+
+//<1453> Ero Samurai
+<1453> Ero Samurai
+
+//<1454> Ero Ero Numero Uno
+<1454> Ero Ero Numero Uno
+
+//<1455> Just a Pervert
+<1455> Just a Pervert
+
+//<1456> Uglyuri
+<1456> Uglyuri
+
+//<1457> Depussy
+<1457> Depussy
+
+//<1458> Horndog
+<1458> Horndog
+
+//<1459> Zeus
+<1459> Zeus
+
+//<1460> Hinata Mk.Ⅱ
+<1460> Hinata Mk.Ⅱ
+
+//<1461> Dung Beatle
+<1461> Dung Beatle
+
+//<1462> Hinata Clone
+<1462> Hinata Clone
+
+//<1463> ??
+<1463> ??
+
+//<1464> 「あんた、Tenshiとか呼ばれてたぞ」
+<1464> "You're the one they called Tenshi or something."
+
+//<1465> nothing
+<1465> nothing
+
+//<1466> nothing
+<1466> nothing
+
+//<1467> nothing
+<1467> nothing
+
+//<1468> nothing
+<1468> nothing
+
+//<1469> nothing
+<1469> nothing
+
+//<1470> Tenshi
+<1470> Tenshi
+
+//<1471> Kanade
+<1471> Kanade
+
+//<1472> Female Student
+<1472> Female Student
+
+//<1473> ??
+<1473> ??
+
+//<1474> 「Tenshi？」
+<1474> "Tenshi?"
+
+//<1475> Otonashi
+<1475> Otonashi
+
+//<1476> Punk
+<1476> Punk
+
+//<1477> Substitute
+<1477> Substitute
+
+//<1478> Uncanny Stud
+<1478> Uncanny Stud
+
+//<1479> Lolicon
+<1479> Lolicon
+
+//<1480> Glasses Comrade
+<1480> Glasses Comrade
+
+//<1481> Japanese Mental Mathstermind
+<1481> Japanese Mental Mathstermind
+
+//<1482> Phantom Slasher
+<1482> Phantom Slasher
+
+//<1483> Amnesiac
+<1483> Amnesiac
+
+//<1484> Onsoku
+<1484> Onsoku
+
+//<1485> Mugen
+<1485> Mugen
+
+//<1486> Ero Samurai
+<1486> Ero Samurai
+
+//<1487> Ero Ero Numero Uno
+<1487> Ero Ero Numero Uno
+
+//<1488> Just a Pervert
+<1488> Just a Pervert
+
+//<1489> Uglyuri
+<1489> Uglyuri
+
+//<1490> Depussy
+<1490> Depussy
+
+//<1491> Horndog
+<1491> Horndog
+
+//<1492> Zeus
+<1492> Zeus
+
+//<1493> Hinata Mk.Ⅱ
+<1493> Hinata Mk.Ⅱ
+
+//<1494> Dung Beatle
+<1494> Dung Beatle
+
+//<1495> Hinata Clone
+<1495> Hinata Clone
+
+//<1496> ??
+<1496> ??
+
+//<1497> 「あんたと戦ってるっつー奴らがそう言ってた」
+<1497> "Those guys said they're fighting against you."
+
+//<1498> nothing
+<1498> nothing
+
+//<1499> nothing
+<1499> nothing
+
+//<1500> nothing
+<1500> nothing
+
+//<1501> nothing
+<1501> nothing
+
+//<1502> nothing
+<1502> nothing
+
+//<1503> Tenshi
+<1503> Tenshi
+
+//<1504> Kanade
+<1504> Kanade
+
+//<1505> Female Student
+<1505> Female Student
+
+//<1506> ??
+<1506> ??
+
+//<1507> 「…クラス・スリーエスのこと？」
+<1507> "...you mean the kids from class Three S?"
+
+//<1508> Otonashi
+<1508> Otonashi
+
+//<1509> Punk
+<1509> Punk
+
+//<1510> Substitute
+<1510> Substitute
+
+//<1511> Uncanny Stud
+<1511> Uncanny Stud
+
+//<1512> Lolicon
+<1512> Lolicon
+
+//<1513> Glasses Comrade
+<1513> Glasses Comrade
+
+//<1514> Japanese Mental Mathstermind
+<1514> Japanese Mental Mathstermind
+
+//<1515> Phantom Slasher
+<1515> Phantom Slasher
+
+//<1516> Amnesiac
+<1516> Amnesiac
+
+//<1517> Onsoku
+<1517> Onsoku
+
+//<1518> Mugen
+<1518> Mugen
+
+//<1519> Ero Samurai
+<1519> Ero Samurai
+
+//<1520> Ero Ero Numero Uno
+<1520> Ero Ero Numero Uno
+
+//<1521> Just a Pervert
+<1521> Just a Pervert
+
+//<1522> Uglyuri
+<1522> Uglyuri
+
+//<1523> Depussy
+<1523> Depussy
+
+//<1524> Horndog
+<1524> Horndog
+
+//<1525> Zeus
+<1525> Zeus
+
+//<1526> Hinata Mk.Ⅱ
+<1526> Hinata Mk.Ⅱ
+
+//<1527> Dung Beatle
+<1527> Dung Beatle
+
+//<1528> Hinata Clone
+<1528> Hinata Clone
+
+//<1529> ??
+<1529> ??
+
+//<1530> 「ああ、多分そいつら。Tenshiだから、あんたが成仏させるんだろ、違うのか？」
+<1530> "Ahh, probably. So if you're Tenshi, then you're going to heaven, right?"
+//(Literally "becoming Buddha", expression used to mean "entering Nirvana")
+
+//<1531> nothing
+<1531> nothing
+
+//<1532> nothing
+<1532> nothing
+
+//<1533> nothing
+<1533> nothing
+
+//<1534> nothing
+<1534> nothing
+
+//<1535> nothing
+<1535> nothing
+
+//<1536> Tenshi
+<1536> Tenshi
+
+//<1537> Kanade
+<1537> Kanade
+
+//<1538> Female Student
+<1538> Female Student
+
+//<1539> ??
+<1539> ??
+
+//<1540> 「…あたしはTenshiなんかじゃないわ」
+<1540> "...I am not Tenshi."
+
+//<1541> Otonashi
+<1541> Otonashi
+
+//<1542> Punk
+<1542> Punk
+
+//<1543> Substitute
+<1543> Substitute
+
+//<1544> Uncanny Stud
+<1544> Uncanny Stud
+
+//<1545> Lolicon
+<1545> Lolicon
+
+//<1546> Glasses Comrade
+<1546> Glasses Comrade
+
+//<1547> Japanese Mental Mathstermind
+<1547> Japanese Mental Mathstermind
+
+//<1548> Phantom Slasher
+<1548> Phantom Slasher
+
+//<1549> Amnesiac
+<1549> Amnesiac
+
+//<1550> Onsoku
+<1550> Onsoku
+
+//<1551> Mugen
+<1551> Mugen
+
+//<1552> Ero Samurai
+<1552> Ero Samurai
+
+//<1553> Ero Ero Numero Uno
+<1553> Ero Ero Numero Uno
+
+//<1554> Just a Pervert
+<1554> Just a Pervert
+
+//<1555> Uglyuri
+<1555> Uglyuri
+
+//<1556> Depussy
+<1556> Depussy
+
+//<1557> Horndog
+<1557> Horndog
+
+//<1558> Zeus
+<1558> Zeus
+
+//<1559> Hinata Mk.Ⅱ
+<1559> Hinata Mk.Ⅱ
+
+//<1560> Dung Beatle
+<1560> Dung Beatle
+
+//<1561> Hinata Clone
+<1561> Hinata Clone
+
+//<1562> ??
+<1562> ??
+
+//<1563> 「じゃあなに」
+<1563> "Then who are you?"
+
+//<1564> nothing
+<1564> nothing
+
+//<1565> nothing
+<1565> nothing
+
+//<1566> nothing
+<1566> nothing
+
+//<1567> nothing
+<1567> nothing
+
+//<1568> nothing
+<1568> nothing
+
+//<1569> Tenshi
+<1569> Tenshi
+
+//<1570> Kanade
+<1570> Kanade
+
+//<1571> Female Student
+<1571> Female Student
+
+//<1572> ??
+<1572> ??
+
+//<1573> 「…生徒会長」
+<1573> "...the student council president."
+
+//<1574> Otonashi
+<1574> Otonashi
+
+//<1575> Punk
+<1575> Punk
+
+//<1576> Substitute
+<1576> Substitute
+
+//<1577> Uncanny Stud
+<1577> Uncanny Stud
+
+//<1578> Lolicon
+<1578> Lolicon
+
+//<1579> Glasses Comrade
+<1579> Glasses Comrade
+
+//<1580> Japanese Mental Mathstermind
+<1580> Japanese Mental Mathstermind
+
+//<1581> Phantom Slasher
+<1581> Phantom Slasher
+
+//<1582> Amnesiac
+<1582> Amnesiac
+
+//<1583> Onsoku
+<1583> Onsoku
+
+//<1584> Mugen
+<1584> Mugen
+
+//<1585> Ero Samurai
+<1585> Ero Samurai
+
+//<1586> Ero Ero Numero Uno
+<1586> Ero Ero Numero Uno
+
+//<1587> Just a Pervert
+<1587> Just a Pervert
+
+//<1588> Uglyuri
+<1588> Uglyuri
+
+//<1589> Depussy
+<1589> Depussy
+
+//<1590> Horndog
+<1590> Horndog
+
+//<1591> Zeus
+<1591> Zeus
+
+//<1592> Hinata Mk.Ⅱ
+<1592> Hinata Mk.Ⅱ
+
+//<1593> Dung Beatle
+<1593> Dung Beatle
+
+//<1594> Hinata Clone
+<1594> Hinata Clone
+
+//<1595> ??
+<1595> ??
+
+//<1596> 「え…この学校の？」
+<1596> "Eh...of this school?"
+
+//<1597> nothing
+<1597> nothing
+
+//<1598> nothing
+<1598> nothing
+
+//<1599> nothing
+<1599> nothing
+
+//<1600> nothing
+<1600> nothing
+
+//<1601> nothing
+<1601> nothing
+
+//<1602> こくりと頷くだけで答える。
+<1602> She answers with a nod.
+
+//<1603> Otonashi
+<1603> Otonashi
+
+//<1604> Punk
+<1604> Punk
+
+//<1605> Substitute
+<1605> Substitute
+
+//<1606> Uncanny Stud
+<1606> Uncanny Stud
+
+//<1607> Lolicon
+<1607> Lolicon
+
+//<1608> Glasses Comrade
+<1608> Glasses Comrade
+
+//<1609> Japanese Mental Mathstermind
+<1609> Japanese Mental Mathstermind
+
+//<1610> Phantom Slasher
+<1610> Phantom Slasher
+
+//<1611> Amnesiac
+<1611> Amnesiac
+
+//<1612> Onsoku
+<1612> Onsoku
+
+//<1613> Mugen
+<1613> Mugen
+
+//<1614> Ero Samurai
+<1614> Ero Samurai
+
+//<1615> Ero Ero Numero Uno
+<1615> Ero Ero Numero Uno
+
+//<1616> Just a Pervert
+<1616> Just a Pervert
+
+//<1617> Uglyuri
+<1617> Uglyuri
+
+//<1618> Depussy
+<1618> Depussy
+
+//<1619> Horndog
+<1619> Horndog
+
+//<1620> Zeus
+<1620> Zeus
+
+//<1621> Hinata Mk.Ⅱ
+<1621> Hinata Mk.Ⅱ
+
+//<1622> Dung Beatle
+<1622> Dung Beatle
+
+//<1623> Hinata Clone
+<1623> Hinata Clone
+
+//<1624> ??
+<1624> ??
+
+//<1625> 「じゃ、連中は？」
+<1625> "Then, the others are?"
+
+//<1626> nothing
+<1626> nothing
+
+//<1627> nothing
+<1627> nothing
+
+//<1628> nothing
+<1628> nothing
+
+//<1629> nothing
+<1629> nothing
+
+//<1630> nothing
+<1630> nothing
+
+//<1631> Tenshi
+<1631> Tenshi
+
+//<1632> Kanade
+<1632> Kanade
+
+//<1633> Female Student
+<1633> Female Student
+
+//<1634> ??
+<1634> ??
+
+//<1635> 「クラス・スリーエス」
+<1635> "Class Three S"
+
+//<1636> nothing
+<1636> nothing
+
+//<1637> nothing
+<1637> nothing
+
+//<1638> nothing
+<1638> nothing
+
+//<1639> nothing
+<1639> nothing
+
+//<1640> nothing
+<1640> nothing
+
+//<1641> クラス・スリーエス…。
+<1641> Class Three S
+
+//<1642> クラス・３－Ｓ。
+<1642> Class 3-S
+
+//<1643> …３年Ｓ組。
+<1643> ...3rd year, class S.
+
+//<1644> まさか、そんなお遊びに付き合わされてたとは…。
+<1644> I can't believe I playing along with something so silly...
+
+//<1645> Otonashi
+<1645> Otonashi
+
+//<1646> Punk
+<1646> Punk
+
+//<1647> Substitute
+<1647> Substitute
+
+//<1648> Uncanny Stud
+<1648> Uncanny Stud
+
+//<1649> Lolicon
+<1649> Lolicon
+
+//<1650> Glasses Comrade
+<1650> Glasses Comrade
+
+//<1651> Japanese Mental Mathstermind
+<1651> Japanese Mental Mathstermind
+
+//<1652> Phantom Slasher
+<1652> Phantom Slasher
+
+//<1653> Amnesiac
+<1653> Amnesiac
+
+//<1654> Onsoku
+<1654> Onsoku
+
+//<1655> Mugen
+<1655> Mugen
+
+//<1656> Ero Samurai
+<1656> Ero Samurai
+
+//<1657> Ero Ero Numero Uno
+<1657> Ero Ero Numero Uno
+
+//<1658> Just a Pervert
+<1658> Just a Pervert
+
+//<1659> Uglyuri
+<1659> Uglyuri
+
+//<1660> Depussy
+<1660> Depussy
+
+//<1661> Horndog
+<1661> Horndog
+
+//<1662> Zeus
+<1662> Zeus
+
+//<1663> Hinata Mk.Ⅱ
+<1663> Hinata Mk.Ⅱ
+
+//<1664> Dung Beatle
+<1664> Dung Beatle
+
+//<1665> Hinata Clone
+<1665> Hinata Clone
+
+//<1666> ??
+<1666> ??
+
+//<1667> 「あほだ、俺は…」
+<1667> "I'm an idiot..."
+
+//<1668> nothing
+<1668> nothing
+
+//<1669> nothing
+<1669> nothing
+
+//<1670> nothing
+<1670> nothing
+
+//<1671> nothing
+<1671> nothing
+
+//<1672> nothing
+<1672> nothing
+
+//<1673> Tenshi
+<1673> Tenshi
+
+//<1674> Kanade
+<1674> Kanade
+
+//<1675> Female Student
+<1675> Female Student
+
+//<1676> ??
+<1676> ??
+
+//<1677> "......"
+<1677> "......"
+
+//<1678> Otonashi
+<1678> Otonashi
+
+//<1679> Punk
+<1679> Punk
+
+//<1680> Substitute
+<1680> Substitute
+
+//<1681> Uncanny Stud
+<1681> Uncanny Stud
+
+//<1682> Lolicon
+<1682> Lolicon
+
+//<1683> Glasses Comrade
+<1683> Glasses Comrade
+
+//<1684> Japanese Mental Mathstermind
+<1684> Japanese Mental Mathstermind
+
+//<1685> Phantom Slasher
+<1685> Phantom Slasher
+
+//<1686> Amnesiac
+<1686> Amnesiac
+
+//<1687> Onsoku
+<1687> Onsoku
+
+//<1688> Mugen
+<1688> Mugen
+
+//<1689> Ero Samurai
+<1689> Ero Samurai
+
+//<1690> Ero Ero Numero Uno
+<1690> Ero Ero Numero Uno
+
+//<1691> Just a Pervert
+<1691> Just a Pervert
+
+//<1692> Uglyuri
+<1692> Uglyuri
+
+//<1693> Depussy
+<1693> Depussy
+
+//<1694> Horndog
+<1694> Horndog
+
+//<1695> Zeus
+<1695> Zeus
+
+//<1696> Hinata Mk.Ⅱ
+<1696> Hinata Mk.Ⅱ
+
+//<1697> Dung Beatle
+<1697> Dung Beatle
+
+//<1698> Hinata Clone
+<1698> Hinata Clone
+
+//<1699> ??
+<1699> ??
+
+//<1700> 「くそ、記憶がねぇから、からかわれたんだ。自分が誰かもわからないから、病院にいくよ」
+<1700> "Damn it, I got made fun of just because of some amnesia. I don't even know who I am, so I'll head off to the hospital."
+//Maybe "messed with" instead of "made fun of"?
+
+//<1701> nothing
+<1701> nothing
+
+//<1702> nothing
+<1702> nothing
+
+//<1703> nothing
+<1703> nothing
+
+//<1704> nothing
+<1704> nothing
+
+//<1705> nothing
+<1705> nothing
+
+//<1706> Tenshi
+<1706> Tenshi
+
+//<1707> Kanade
+<1707> Kanade
+
+//<1708> Female Student
+<1708> Female Student
+
+//<1709> ??
+<1709> ??
+
+//<1710> 「ん？　病院なんてないわよ」
+<1710> "Huh? There is no hospital."
+
+//<1711> Otonashi
+<1711> Otonashi
+
+//<1712> Punk
+<1712> Punk
+
+//<1713> Substitute
+<1713> Substitute
+
+//<1714> Uncanny Stud
+<1714> Uncanny Stud
+
+//<1715> Lolicon
+<1715> Lolicon
+
+//<1716> Glasses Comrade
+<1716> Glasses Comrade
+
+//<1717> Japanese Mental Mathstermind
+<1717> Japanese Mental Mathstermind
+
+//<1718> Phantom Slasher
+<1718> Phantom Slasher
+
+//<1719> Amnesiac
+<1719> Amnesiac
+
+//<1720> Onsoku
+<1720> Onsoku
+
+//<1721> Mugen
+<1721> Mugen
+
+//<1722> Ero Samurai
+<1722> Ero Samurai
+
+//<1723> Ero Ero Numero Uno
+<1723> Ero Ero Numero Uno
+
+//<1724> Just a Pervert
+<1724> Just a Pervert
+
+//<1725> Uglyuri
+<1725> Uglyuri
+
+//<1726> Depussy
+<1726> Depussy
+
+//<1727> Horndog
+<1727> Horndog
+
+//<1728> Zeus
+<1728> Zeus
+
+//<1729> Hinata Mk.Ⅱ
+<1729> Hinata Mk.Ⅱ
+
+//<1730> Dung Beatle
+<1730> Dung Beatle
+
+//<1731> Hinata Clone
+<1731> Hinata Clone
+
+//<1732> ??
+<1732> ??
+
+//<1733> 「は？　どうして？」
+<1733> "Ha? Why?"
+
+//<1734> nothing
+<1734> nothing
+
+//<1735> 
+<1735> 
+
+//<1736> 
+<1736> 
+
+//<1737> nothing
+<1737> nothing
+
+//<1738> Tenshi
+<1738> Tenshi
+
+//<1739> Kanade
+<1739> Kanade
+
+//<1740> Female Student
+<1740> Female Student
+
+//<1741> ??
+<1741> ??
+
+//<1742> 「誰も病まないから」
+<1742> "Because no one gets sick."
+
+//<1743> 待て…
+<1743> Wait...
+
+//<1744> なんだこの寒気は…
+<1744> What's with this chill...
+
+//<1745> 待て待て待て…。
+<1745> Wait wait wait...
+
+//<1746> Otonashi
+<1746> Otonashi
+
+//<1747> Punk
+<1747> Punk
+
+//<1748> Substitute
+<1748> Substitute
+
+//<1749> Uncanny Stud
+<1749> Uncanny Stud
+
+//<1750> Lolicon
+<1750> Lolicon
+
+//<1751> Glasses Comrade
+<1751> Glasses Comrade
+
+//<1752> Japanese Mental Mathstermind
+<1752> Japanese Mental Mathstermind
+
+//<1753> Phantom Slasher
+<1753> Phantom Slasher
+
+//<1754> Amnesiac
+<1754> Amnesiac
+
+//<1755> Onsoku
+<1755> Onsoku
+
+//<1756> Mugen
+<1756> Mugen
+
+//<1757> Ero Samurai
+<1757> Ero Samurai
+
+//<1758> Ero Ero Numero Uno
+<1758> Ero Ero Numero Uno
+
+//<1759> Just a Pervert
+<1759> Just a Pervert
+
+//<1760> Uglyuri
+<1760> Uglyuri
+
+//<1761> Depussy
+<1761> Depussy
+
+//<1762> Horndog
+<1762> Horndog
+
+//<1763> Zeus
+<1763> Zeus
+
+//<1764> Hinata Mk.Ⅱ
+<1764> Hinata Mk.Ⅱ
+
+//<1765> Dung Beatle
+<1765> Dung Beatle
+
+//<1766> Hinata Clone
+<1766> Hinata Clone
+
+//<1767> ??
+<1767> ??
+
+//<1768> 「…それも…どうして？」
+<1768> "... And... why is that?"
+
+//<1769> Tenshi
+<1769> Tenshi
+
+//<1770> Kanade
+<1770> Kanade
+
+//<1771> Female Student
+<1771> Female Student
+
+//<1772> ??
+<1772> ??
+
+//<1773> 「みんな死んでるから」
+<1773> "Because everyone is dead."
+
+//<1774> nothing
+<1774> nothing
+
+//<1775> nothing
+<1775> nothing
+
+//<1776> nothing
+<1776> nothing
+
+//<1777> nothing
+<1777> nothing
+
+//<1778> nothing
+<1778> nothing
+
+//<1779> 寒気が反転して、怒りに変わった。
+<1779> The chill rapidly changes to anger.
+
+//<1780> Otonashi
+<1780> Otonashi
+
+//<1781> Punk
+<1781> Punk
+
+//<1782> Substitute
+<1782> Substitute
+
+//<1783> Uncanny Stud
+<1783> Uncanny Stud
+
+//<1784> Lolicon
+<1784> Lolicon
+
+//<1785> Glasses Comrade
+<1785> Glasses Comrade
+
+//<1786> Japanese Mental Mathstermind
+<1786> Japanese Mental Mathstermind
+
+//<1787> Phantom Slasher
+<1787> Phantom Slasher
+
+//<1788> Amnesiac
+<1788> Amnesiac
+
+//<1789> Onsoku
+<1789> Onsoku
+
+//<1790> Mugen
+<1790> Mugen
+
+//<1791> Ero Samurai
+<1791> Ero Samurai
+
+//<1792> Ero Ero Numero Uno
+<1792> Ero Ero Numero Uno
+
+//<1793> Just a Pervert
+<1793> Just a Pervert
+
+//<1794> Uglyuri
+<1794> Uglyuri
+
+//<1795> Depussy
+<1795> Depussy
+
+//<1796> Horndog
+<1796> Horndog
+
+//<1797> Zeus
+<1797> Zeus
+
+//<1798> Hinata Mk.Ⅱ
+<1798> Hinata Mk.Ⅱ
+
+//<1799> Dung Beatle
+<1799> Dung Beatle
+
+//<1800> Hinata Clone
+<1800> Hinata Clone
+
+//<1801> ??
+<1801> ??
+
+//<1802> 「ああ、わかった。てめぇもぐるなんだな。俺を騙そうとしてるんだなっ」
+<1802> "Ohh, I get it. So you're in on it too. Trying to trick me, eh?"
+
+//<1803> Otonashi
+<1803> Otonashi
+
+//<1804> Punk
+<1804> Punk
+
+//<1805> Substitute
+<1805> Substitute
+
+//<1806> Uncanny Stud
+<1806> Uncanny Stud
+
+//<1807> Lolicon
+<1807> Lolicon
+
+//<1808> Glasses Comrade
+<1808> Glasses Comrade
+
+//<1809> Japanese Mental Mathstermind
+<1809> Japanese Mental Mathstermind
+
+//<1810> Phantom Slasher
+<1810> Phantom Slasher
+
+//<1811> Amnesiac
+<1811> Amnesiac
+
+//<1812> Onsoku
+<1812> Onsoku
+
+//<1813> Mugen
+<1813> Mugen
+
+//<1814> Ero Samurai
+<1814> Ero Samurai
+
+//<1815> Ero Ero Numero Uno
+<1815> Ero Ero Numero Uno
+
+//<1816> Just a Pervert
+<1816> Just a Pervert
+
+//<1817> Uglyuri
+<1817> Uglyuri
+
+//<1818> Depussy
+<1818> Depussy
+
+//<1819> Horndog
+<1819> Horndog
+
+//<1820> Zeus
+<1820> Zeus
+
+//<1821> Hinata Mk.Ⅱ
+<1821> Hinata Mk.Ⅱ
+
+//<1822> Dung Beatle
+<1822> Dung Beatle
+
+//<1823> Hinata Clone
+<1823> Hinata Clone
+
+//<1824> ??
+<1824> ??
+
+//<1825> 「なんだ！？　この記憶喪失もお前らのしわざか！？」
+<1825> "What!? Is this amnesia also your doing!?"
+
+//<1826> bs2_
+<1826> bs2_
+
+//<1827> nothing
+<1827> nothing
+
+//<1828> nothing
+<1828> nothing
+
+//<1829> nothing
+<1829> nothing
+
+//<1830> nothing
+<1830> nothing
+
+//<1831> nothing
+<1831> nothing
+
+//<1832> 俺は一歩近寄り、苛立ちに任せて声を荒げた。
+<1832> I take a step closer, allowing my voice to give into the anger.
+
+//<1833> nothing
+<1833> nothing
+
+//<1834> nothing
+<1834> nothing
+
+//<1835> nothing
+<1835> nothing
+
+//<1836> nothing
+<1836> nothing
+
+//<1837> nothing
+<1837> nothing
+
+//<1838> Tenshi
+<1838> Tenshi
+
+//<1839> Kanade
+<1839> Kanade
+
+//<1840> Female Student
+<1840> Female Student
+
+//<1841> ??
+<1841> ??
+
+//<1842> 「…記憶喪失はよくあることよ。ここに来た時は。事故死とかだったら、頭もやられるから」
+<1842> "...Many people have amnesia when they come here. Maybe you died in an accident and hurt your head."
+
+//<1843> Otonashi
+<1843> Otonashi
+
+//<1844> Punk
+<1844> Punk
+
+//<1845> Substitute
+<1845> Substitute
+
+//<1846> Uncanny Stud
+<1846> Uncanny Stud
+
+//<1847> Lolicon
+<1847> Lolicon
+
+//<1848> Glasses Comrade
+<1848> Glasses Comrade
+
+//<1849> Japanese Mental Mathstermind
+<1849> Japanese Mental Mathstermind
+
+//<1850> Phantom Slasher
+<1850> Phantom Slasher
+
+//<1851> Amnesiac
+<1851> Amnesiac
+
+//<1852> Onsoku
+<1852> Onsoku
+
+//<1853> Mugen
+<1853> Mugen
+
+//<1854> Ero Samurai
+<1854> Ero Samurai
+
+//<1855> Ero Ero Numero Uno
+<1855> Ero Ero Numero Uno
+
+//<1856> Just a Pervert
+<1856> Just a Pervert
+
+//<1857> Uglyuri
+<1857> Uglyuri
+
+//<1858> Depussy
+<1858> Depussy
+
+//<1859> Horndog
+<1859> Horndog
+
+//<1860> Zeus
+<1860> Zeus
+
+//<1861> Hinata Mk.Ⅱ
+<1861> Hinata Mk.Ⅱ
+
+//<1862> Dung Beatle
+<1862> Dung Beatle
+
+//<1863> Hinata Clone
+<1863> Hinata Clone
+
+//<1864> ??
+<1864> ??
+
+//<1865> 「また死後の世界ってやつか！」
+<1865> "Again with the world after death story!"
+
+//<1866> nothing
+<1866> nothing
+
+//<1867> nothing
+<1867> nothing
+
+//<1868> nothing
+<1868> nothing
+
+//<1869> nothing
+<1869> nothing
+
+//<1870> nothing
+<1870> nothing
+
+//<1871> Otonashi
+<1871> Otonashi
+
+//<1872> Punk
+<1872> Punk
+
+//<1873> Substitute
+<1873> Substitute
+
+//<1874> Uncanny Stud
+<1874> Uncanny Stud
+
+//<1875> Lolicon
+<1875> Lolicon
+
+//<1876> Glasses Comrade
+<1876> Glasses Comrade
+
+//<1877> Japanese Mental Mathstermind
+<1877> Japanese Mental Mathstermind
+
+//<1878> Phantom Slasher
+<1878> Phantom Slasher
+
+//<1879> Amnesiac
+<1879> Amnesiac
+
+//<1880> Onsoku
+<1880> Onsoku
+
+//<1881> Mugen
+<1881> Mugen
+
+//<1882> Ero Samurai
+<1882> Ero Samurai
+
+//<1883> Ero Ero Numero Uno
+<1883> Ero Ero Numero Uno
+
+//<1884> Just a Pervert
+<1884> Just a Pervert
+
+//<1885> Uglyuri
+<1885> Uglyuri
+
+//<1886> Depussy
+<1886> Depussy
+
+//<1887> Horndog
+<1887> Horndog
+
+//<1888> Zeus
+<1888> Zeus
+
+//<1889> Hinata Mk.Ⅱ
+<1889> Hinata Mk.Ⅱ
+
+//<1890> Dung Beatle
+<1890> Dung Beatle
+
+//<1891> Hinata Clone
+<1891> Hinata Clone
+
+//<1892> ??
+<1892> ??
+
+//<1893> 「じゃあ、証明してくれよ！　俺は死んでるから、もう死なないってよっ！」
+<1893> "Then prove it! I'm dead, so I shouldn't be able to die anymore!"
+
+//<1894> nothing
+<1894> nothing
+
+//<1895> nothing
+<1895> nothing
+
+//<1896> nothing
+<1896> nothing
+
+//<1897> nothing
+<1897> nothing
+
+//<1898> nothing
+<1898> nothing
+
+//<1899> Tenshi
+<1899> Tenshi
+
+//<1900> Kanade
+<1900> Kanade
+
+//<1901> Female Student
+<1901> Female Student
+
+//<1902> ??
+<1902> ??
+
+//<1903> 『ガードスキル・ハンドソニック』
+<1903> "Guard Skil: Hand Sonic."
+
+//<1904> nothing
+<1904> nothing
+
+//<1905> nothing
+<1905> nothing
+
+//<1906> nothing
+<1906> nothing
+
+//<1907> nothing
+<1907> nothing
+
+//<1908> nothing
+<1908> nothing
+{34680} 0a // 1908
+
+//<1909> se_handsonic
+<1909> se_handsonic
+
+//<1910> nothing
+<1910> nothing
+
+//<1911> nothing
+<1911> nothing
+
+//<1912> nothing
+<1912> nothing
+
+//<1913> nothing
+<1913> nothing
+
+//<1914> nothing
+<1914> nothing
+
+//<1915> 右手の甲に光子状の何かを纏った。
+<1915> Some kind of light beam appeared from the back of her right hand.
+
+//<1916> Otonashi
+<1916> Otonashi
+
+//<1917> Punk
+<1917> Punk
+
+//<1918> Substitute
+<1918> Substitute
+
+//<1919> Uncanny Stud
+<1919> Uncanny Stud
+
+//<1920> Lolicon
+<1920> Lolicon
+
+//<1921> Glasses Comrade
+<1921> Glasses Comrade
+
+//<1922> Japanese Mental Mathstermind
+<1922> Japanese Mental Mathstermind
+
+//<1923> Phantom Slasher
+<1923> Phantom Slasher
+
+//<1924> Amnesiac
+<1924> Amnesiac
+
+//<1925> Onsoku
+<1925> Onsoku
+
+//<1926> Mugen
+<1926> Mugen
+
+//<1927> Ero Samurai
+<1927> Ero Samurai
+
+//<1928> Ero Ero Numero Uno
+<1928> Ero Ero Numero Uno
+
+//<1929> Just a Pervert
+<1929> Just a Pervert
+
+//<1930> Uglyuri
+<1930> Uglyuri
+
+//<1931> Depussy
+<1931> Depussy
+
+//<1932> Horndog
+<1932> Horndog
+
+//<1933> Zeus
+<1933> Zeus
+
+//<1934> Hinata Mk.Ⅱ
+<1934> Hinata Mk.Ⅱ
+
+//<1935> Dung Beatle
+<1935> Dung Beatle
+
+//<1936> Hinata Clone
+<1936> Hinata Clone
+
+//<1937> ??
+<1937> ??
+
+//<1938> （なんだよ、それ…）
+<1938> (What, is that...)
+
+//<1939> 光る刃。それ以外に言葉が見つからない…。
+<1939> A lightsaber. I can't find any other words...
+
+//<1940> nothing
+<1940> nothing
+
+//<1941> nothing
+<1941> nothing
+
+//<1942> nothing
+<1942> nothing
+
+//<1943> nothing
+<1943> nothing
+
+//<1944> nothing
+<1944> nothing
+
+//<1945> Tenshi
+<1945> Tenshi
+
+//<1946> Kanade
+<1946> Kanade
+
+//<1947> Female Student
+<1947> Female Student
+
+//<1948> ??
+<1948> ??
+
+//<1949> 「さて…どうしたものかしら」
+<1949> "Now then...what should I do?"
+
+//<1950> Otonashi
+<1950> Otonashi
+
+//<1951> Punk
+<1951> Punk
+
+//<1952> Substitute
+<1952> Substitute
+
+//<1953> Uncanny Stud
+<1953> Uncanny Stud
+
+//<1954> Lolicon
+<1954> Lolicon
+
+//<1955> Glasses Comrade
+<1955> Glasses Comrade
+
+//<1956> Japanese Mental Mathstermind
+<1956> Japanese Mental Mathstermind
+
+//<1957> Phantom Slasher
+<1957> Phantom Slasher
+
+//<1958> Amnesiac
+<1958> Amnesiac
+
+//<1959> Onsoku
+<1959> Onsoku
+
+//<1960> Mugen
+<1960> Mugen
+
+//<1961> Ero Samurai
+<1961> Ero Samurai
+
+//<1962> Ero Ero Numero Uno
+<1962> Ero Ero Numero Uno
+
+//<1963> Just a Pervert
+<1963> Just a Pervert
+
+//<1964> Uglyuri
+<1964> Uglyuri
+
+//<1965> Depussy
+<1965> Depussy
+
+//<1966> Horndog
+<1966> Horndog
+
+//<1967> Zeus
+<1967> Zeus
+
+//<1968> Hinata Mk.Ⅱ
+<1968> Hinata Mk.Ⅱ
+
+//<1969> Dung Beatle
+<1969> Dung Beatle
+
+//<1970> Hinata Clone
+<1970> Hinata Clone
+
+//<1971> ??
+<1971> ??
+
+//<1972> 「なら、それで心臓をひとつきにしろよ！！」
+<1972> "Then, stab me right in the heart!!"
+
+//<1973> Otonashi
+<1973> Otonashi
+
+//<1974> Punk
+<1974> Punk
+
+//<1975> Substitute
+<1975> Substitute
+
+//<1976> Uncanny Stud
+<1976> Uncanny Stud
+
+//<1977> Lolicon
+<1977> Lolicon
+
+//<1978> Glasses Comrade
+<1978> Glasses Comrade
+
+//<1979> Japanese Mental Mathstermind
+<1979> Japanese Mental Mathstermind
+
+//<1980> Phantom Slasher
+<1980> Phantom Slasher
+
+//<1981> Amnesiac
+<1981> Amnesiac
+
+//<1982> Onsoku
+<1982> Onsoku
+
+//<1983> Mugen
+<1983> Mugen
+
+//<1984> Ero Samurai
+<1984> Ero Samurai
+
+//<1985> Ero Ero Numero Uno
+<1985> Ero Ero Numero Uno
+
+//<1986> Just a Pervert
+<1986> Just a Pervert
+
+//<1987> Uglyuri
+<1987> Uglyuri
+
+//<1988> Depussy
+<1988> Depussy
+
+//<1989> Horndog
+<1989> Horndog
+
+//<1990> Zeus
+<1990> Zeus
+
+//<1991> Hinata Mk.Ⅱ
+<1991> Hinata Mk.Ⅱ
+
+//<1992> Dung Beatle
+<1992> Dung Beatle
+
+//<1993> Hinata Clone
+<1993> Hinata Clone
+
+//<1994> ??
+<1994> ??
+
+//<1995> 「それで死なないって証明できるだろっ！　お前にそんな度胸があるならなっ！！」
+<1995> "Then you can prove I can't die right! If you really have the guts to!!"
+
+//<1996> Tenshi
+<1996> Tenshi
+
+//<1997> Kanade
+<1997> Kanade
+
+//<1998> Female Student
+<1998> Female Student
+
+//<1999> ??
+<1999> ??
+
+//<2000> 「そう…」
+<2000> "Then..."
+
+//<2001> そいつは最後に一瞬だけ悲しそうな顔をした。
+<2001> In that final instant, her face was disheartened.
+//The last thing I saw was her disheartened face.
+
+//<2002> None
+<2002> None
+
+//<2003> se_sasareru
+<2003> se_sasareru
+
+//<2004> dummy
+<2004> dummy
+
+//<2005> bg_kuro
+<2005> bg_kuro
+
+//<2006> bg_kuro
+<2006> bg_kuro
+
+//<2007> ep01_bg003
+<2007> ep01_bg003
+
+//<2008> ep01_bg001
+<2008> ep01_bg001
+
+//<2009> ep01_bg002
+<2009> ep01_bg002
+
+//<2010> ep01_bg002
+<2010> ep01_bg002
+
+//<2011> m110
+<2011> m110
+
+//<2012> evcm_0101
+<2012> evcm_0101
+
+//<2013> evcm_0101
+<2013> evcm_0101
+
+//<2014> sys_bk_selline00
+<2014> sys_bk_selline00
+
+//<2015> ef_sss_logo
+<2015> ef_sss_logo
+
+//<2016> ep01_bg013
+<2016> ep01_bg013
+
+//<2017> bs3_kn0901_09
+<2017> bs3_kn0901_09
+
+//<2018> ep01_bg013
+<2018> ep01_bg013
+
+//<2019> bs1_kn0901_09
+<2019> bs1_kn0901_09
+
+//<2020> bs1_kn0901_09
+<2020> bs1_kn0901_09
+
+//<2021> bs1_kn0901_09
+<2021> bs1_kn0901_09
+
+//<2022> bs1_kn0901_09
+<2022> bs1_kn0901_09
+
+//<2023> bs1_kn0901_09
+<2023> bs1_kn0901_09
+
+//<2024> bs1_kn0901_09
+<2024> bs1_kn0901_09
+
+//<2025> evcm_0101
+<2025> evcm_0101
+
+//<2026> ep01_bg019
+<2026> ep01_bg019
+
+//<2027> bs2_yr0105
+<2027> bs2_yr0105
+
+//<2028> bs3_yr0107_0900a0
+<2028> bs3_yr0107_0900a0
+
+//<2029> bs3_yr0105
+<2029> bs3_yr0105
+
+//<2030> ep01_bg019
+<2030> ep01_bg019
+
+//<2031> bs2_yr0105
+<2031> bs2_yr0105
+
+//<2032> bs3_yr0107_0900a0
+<2032> bs3_yr0107_0900a0
+
+//<2033> bs3_yr0105
+<2033> bs3_yr0105
+
+//<2034> bs3_yr0105_09
+<2034> bs3_yr0105_09
+
+//<2035> yr0105
+<2035> yr0105
+
+//<2036> yr0404
+<2036> yr0404
+
+//<2037> yr0610
+<2037> yr0610
+
+//<2038> yr0105
+<2038> yr0105
+
+//<2039> yr0307
+<2039> yr0307
+
+//<2040> sys_bk_selline00
+<2040> sys_bk_selline00
+
+//<2041> yr0405
+<2041> yr0405
+
+//<2042> yr0109
+<2042> yr0109
+
+//<2043> yr0109_06
+<2043> yr0109_06
+
+//<2044> yr0109
+<2044> yr0109
+
+//<2045> yr0109_06
+<2045> yr0109_06
+
+//<2046> yr0408_09
+<2046> yr0408_09
+
+//<2047> yr0409
+<2047> yr0409
+
+//<2048> hn0101
+<2048> hn0101
+
+//<2049> m105
+<2049> m105
+
+//<2050> bs1_hn0101
+<2050> bs1_hn0101
+
+//<2051> yr
+<2051> yr
+
+//<2052> hn0102
+<2052> hn0102
+
+//<2053> yr04100600
+<2053> yr04100600
+
+//<2054> hn0209_07
+<2054> hn0209_07
+
+//<2055> ep01_bg020
+<2055> ep01_bg020
+
+//<2056> yr0405
+<2056> yr0405
+
+//<2057> hn0406
+<2057> hn0406
+
+//<2058> yr0205
+<2058> yr0205
+
+//<2059> ep01_bg027
+<2059> ep01_bg027
+
+//<2060> ep01_bg027
+<2060> ep01_bg027
+{27407} 0a // 2060
+
+//<2061> bs3_kn0901
+<2061> bs3_kn0901
+
+//<2062> ep01_bg027
+<2062> ep01_bg027
+
+//<2063> bs1_kn0901
+<2063> bs1_kn0901
+
+//<2064> m204
+<2064> m204
+
+//<2065> kn0901_05
+<2065> kn0901_05
+
+//<2066> kn0901
+<2066> kn0901
+
+//<2067> kn0901_05
+<2067> kn0901_05
+
+//<2068> kn0901
+<2068> kn0901
+
+//<2069> kn0101
+<2069> kn0101
+
+//<2070> kn0101_05
+<2070> kn0101_05
+
+//<2071> kn0101
+<2071> kn0101
+
+//<2072> kn0101_08
+<2072> kn0101_08
+
+//<2073> kn0101
+<2073> kn0101
+
+//<2074> ef_cutin_kn01
+<2074> ef_cutin_kn01
+
+//<2075> ep01_bg005
+<2075> ep01_bg005
+
+//<2076> m112
+<2076> m112
+
+//<2077> ep01_bg027
+<2077> ep01_bg027
+
+//<2078> bs1_kn0101
+<2078> bs1_kn0101
+
+//<2079> kn0101
+<2079> kn0101
+
+//<2080> kn0102_08
+<2080> kn0102_08
+
+//<2081> kn0101
+<2081> kn0101
+
+//<2082> kn0201_08
+<2082> kn0201_08
+
+//<2083> kn0201
+<2083> kn0201
+
+//<2084> kn0301
+<2084> kn0301
+
+//<2085> kn0301_08
+<2085> kn0301_08
+
+//<2086> bg_kuro
+<2086> bg_kuro
+
+//<2087> evcm_0201
+<2087> evcm_0201
+
+//<2088> bg_kuro
+<2088> bg_kuro
+
+//<2089> bg_kuro
+<2089> bg_kuro
+
